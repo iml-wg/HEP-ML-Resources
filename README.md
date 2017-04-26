@@ -43,6 +43,10 @@ Listing of useful (mostly) public learning resources for machine learning applic
 - [First IML Workshop on Machine Learning](https://indico.cern.ch/event/595059/) (March 20-22, 2017)
 - [Second Machine Learning in High Energy Physics Summer School 2016](https://indico.cern.ch/event/497368/overview)
 
+## Tweets
+
+- [#HEPML collection of tweets](https://twitter.com/HEPfeickert/timelines/806382943342096384)
+
 ## Contributing
 
 To contribute to this project please either start a pull request or an issue with the details of the information that you want added.
