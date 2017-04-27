@@ -4,9 +4,9 @@
 
 ## Table of contents
 
-- [General ML Info](#general-machine-learning-information)
+- [General ML Info](#general-machine-learning-information-)
+- [Software](#software)
 - [Lectures](#lectures)
-- [Jupyter Notebooks](#notebooks)
 - [Papers](#papers)
 - [Workshops](#workshops)
 - [Tweets](#tweets)
@@ -28,23 +28,49 @@ Listing of useful (mostly) public learning resources for machine learning applic
 
 - [Keras and TMVA interfaces Tutorial](https://indico.cern.ch/event/595059/contributions/2522193/), Stefan Wunsch
 
+## Software
+
+### Common software tools and environments used in HEP for ML
+
+- The [Conda package and environment manager](https://conda.io/docs/) and [Anaconda](https://www.continuum.io/anaconda-overview) Python library collection
+
+  - [Using ROOT/PyROOT with Conda and NumPy](https://indico.cern.ch/event/619371/attachments/1450504/2236434/Kagan_Lecture2.pdf#page=99)
+
+- [scikit-learn](http://scikit-learn.org/stable/)
+
+- [TMVA](http://tmva.sourceforge.net/)
+
+### High level deep Learning libraries/framework APIs
+
+- [Keras](https://keras.io/)
+
+### Deep Learning frameworks
+
+- [TensorFlow](https://www.tensorflow.org/)
+- [Theano](http://deeplearning.net/software/theano/)
+
 ## Lectures
 
 - [(Machine) Learning to Pivot with Adversarial Networks](http://indico.iihe.ac.be/indico/conferenceDisplay.py?confId=1082), [Gilles Louppe](https://glouppe.github.io/)
 
-## Notebooks
+<!-- ## Notebooks - [Vince Croft RooFit Notebooks](https://www.nikhef.nl/~vcroft/notebooks.html) -->
 
-- [Vince Croft RooFit Notebooks](https://www.nikhef.nl/~vcroft/notebooks.html)
-
-## Papers
+ ## Papers
 
 - G. Louppe, K. Cho, C. Becot, and K. Cranmer, "[QCD-Aware Recursive Neural Networks for Jet Physics](https://inspirehep.net/record/1511884)," arXiv:1702.00748 [hep-ph].
+
 - J. Barnard, E. N. Dawe, M. J. Dolan, and N. Rajcic, ["Parton Shower Uncertainties in Jet Substructure Analyses with Deep Neural Networks](https://inspirehep.net/record/1485081)," Phys. Rev. D95 (2017) no. 1, 014018, arXiv:1609.00607 [hep-ph]
+
 - P. T. Komiske, E. M. Metodiev, and M. D. Schwartz, "[Deep learning in color: towards automated quark/gluon jet discrimination](https://inspirehep.net/record/1501944)," JHEP 01 (2017) 110, arXiv:1612.01551 [hep-ph].
+
 - MicroBooNE Collaboration, R. Acciarri et al., "[Convolutional Neural Networks Applied to Neutrino Events in a Liquid Argon Time Projection Chamber](https://inspirehep.net/record/1498561)," JINST 12 (2017) no. 03, P03011, arXiv:1611.05531 [physics.ins-det].
+
 - G. Bertone, M. P. Deisenroth, J. S. Kim, S. Liem, R. Ruiz de Austri, and M. Welling, "[Accelerating the BSM interpretation of LHC data with machine learning](https://inspirehep.net/record/1496641)," arXiv:1611.02704 [hep-ph].
+
 - M. Kagan, L. d. Oliveira, L. Mackey, B. Nachman, and A. Schwartzman, "[Boosted Jet Tagging with Jet-Images and Deep Neural Networks](http://inspirehep.net/record/1504297/)," EPJ Web Conf. 127 (2016) 00009.
+
 - A. Aurisano, A. Radovic, D. Rocco, A. Himmel, M. D. Messier, E. Niner, G. Pawloski, F. Psihas, A. Sousa, and P. Vahle, "[A Convolutional Neural Network Neutrino Event Classifier](https://inspirehep.net/record/1444342)," JINST 11 (2016) no. 09, P09001, arXiv:1604.01444 [hep-ex].
+
 - P. Baldi, P. Sadowski, and D. Whiteson, ["Searching for Exotic Particles in High-Energy Physics with Deep Learning](https://inspirehep.net/record/1281836)," Nature Commun. 5 (2014) 4308, arXiv:1402.4735 [hep-ph].
 
 ## Workshops
@@ -78,3 +104,5 @@ Listing maintainer: [Matthew Feickert](http://www.matthewfeickert.com/)
 
 - Following [PurpleBooth](https://github.com/PurpleBooth)'s [README style](https://gist.github.com/PurpleBooth/109311bb0361f32d87a2)
 - All badges made by [shields.io](http://shields.io/)
+
+[comment]: < "a reference style link."
