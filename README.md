@@ -59,6 +59,8 @@ Listing of useful (mostly) public learning resources for machine learning applic
 
 - G. Louppe, K. Cho, C. Becot, and K. Cranmer, "[QCD-Aware Recursive Neural Networks for Jet Physics](https://inspirehep.net/record/1511884)," arXiv:1702.00748 [hep-ph].
 
+- L. de Oliveira, M. Paganini, and B. Nachman, "[Learning Particle Physics by Example: Location-Aware Generative Adversarial Networks for Physics Synthesis](https://inspirehep.net/record/1510258)," arXiv:1701.05927 [stat.ML].
+
 - J. Barnard, E. N. Dawe, M. J. Dolan, and N. Rajcic, ["Parton Shower Uncertainties in Jet Substructure Analyses with Deep Neural Networks](https://inspirehep.net/record/1485081)," Phys. Rev. D95 (2017) no. 1, 014018, arXiv:1609.00607 [hep-ph]
 
 - P. T. Komiske, E. M. Metodiev, and M. D. Schwartz, "[Deep learning in color: towards automated quark/gluon jet discrimination](https://inspirehep.net/record/1501944)," JHEP 01 (2017) 110, arXiv:1612.01551 [hep-ph].
