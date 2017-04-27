@@ -104,5 +104,3 @@ Listing maintainer: [Matthew Feickert](http://www.matthewfeickert.com/)
 
 - Following [PurpleBooth](https://github.com/PurpleBooth)'s [README style](https://gist.github.com/PurpleBooth/109311bb0361f32d87a2)
 - All badges made by [shields.io](http://shields.io/)
-
-[comment]: < "a reference style link."
