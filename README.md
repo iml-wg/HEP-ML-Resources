@@ -40,11 +40,11 @@ Listing of useful (mostly) public learning resources for machine learning applic
 
 - [TMVA](http://tmva.sourceforge.net/)
 
-### High level deep Learning libraries/framework APIs
+### High level deep learning libraries/framework APIs
 
 - [Keras](https://keras.io/)
 
-### Deep Learning frameworks
+### Deep learning frameworks
 
 - [TensorFlow](https://www.tensorflow.org/)
 - [Theano](http://deeplearning.net/software/theano/)
@@ -84,6 +84,7 @@ Listing of useful (mostly) public learning resources for machine learning applic
 - [ATLAS Machine Learning Workshop (2017)](https://indico.cern.ch/event/630665/overview) (June 6-9, 2017) ![ATLAS only](https://img.shields.io/badge/restricted-ATLAS-red.svg)
 - [Workshop on Machine Learning and b-tagging](https://indico.cern.ch/event/615994/overview) (May 23-26, 2017) ![ATLAS only](https://img.shields.io/badge/restricted-ATLAS-red.svg)
 - [DS@HEP 2017](https://indico.fnal.gov/conferenceDisplay.py?confId=13497) (May 8-12, 2017)
+- [2nd S2I2 HEP/CS Workshop (Parallel Session)](https://indico.cern.ch/event/622920/timetable/#5-parallel-session-machine-lea) (May 1-3, 2017)
 
 ### Past
 
