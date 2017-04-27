@@ -79,14 +79,15 @@ Listing of useful (mostly) public learning resources for machine learning applic
 
 - [Hammers & Nails - Machine Learning & HEP](https://www.weizmann.ac.il/conferences/SRitp/Summer2017/) (July 19-28, 2017)
 - [Third Machine Learning in High Energy Physics Summer School 2017](https://indico.cern.ch/event/613571/) (July 17-23, 2017)
-- [Second ATLAS Machine Learning Workshop](https://indico.cern.ch/event/630665/overview) (June 6-9, 2017) ![ATLAS only](https://img.shields.io/badge/restricted-ATLAS-red.svg)
+- [ATLAS Machine Learning Workshop (2017)](https://indico.cern.ch/event/630665/overview) (June 6-9, 2017) ![ATLAS only](https://img.shields.io/badge/restricted-ATLAS-red.svg)
 - [Workshop on Machine Learning and b-tagging](https://indico.cern.ch/event/615994/overview) (May 23-26, 2017) ![ATLAS only](https://img.shields.io/badge/restricted-ATLAS-red.svg)
 - [DS@HEP 2017](https://indico.fnal.gov/conferenceDisplay.py?confId=13497) (May 8-12, 2017)
 
 ### Past
 
 - [First IML Workshop on Machine Learning](https://indico.cern.ch/event/595059/) (March 20-22, 2017)
-- [Second Machine Learning in High Energy Physics Summer School 2016](https://indico.cern.ch/event/497368/overview)
+- [Second Machine Learning in High Energy Physics Summer School 2016](https://indico.cern.ch/event/497368/overview) (June, 20-26 2016)
+- [ATLAS Machine Learning Workshop (2016)](https://indico.cern.ch/event/483999/) (March 29-31, 2016) ![ATLAS only](https://img.shields.io/badge/restricted-ATLAS-red.svg)
 
 ## Tweets
 
