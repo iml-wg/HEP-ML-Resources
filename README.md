@@ -14,7 +14,7 @@
 
 Listing of useful (mostly) public learning resources for machine learning applications in high energy physics (HEPML). Listings will be in reverse chronological order (like a CV).
 
-> **N.B.:** This listing will almost certainly be biased towards work done by ATLAS scientists, as the maintainer is a member of ATLAS and so sees ATLAS work the most. However, this is not the desired case and help to diversify this listing would be greatly appreciated.
+> **N.B.:** This listing will almost certainly be biased towards work done by ATLAS scientists, as the maintainer is a member of ATLAS and so sees ATLAS work the most. However, this is not the desired case and [help to diversify this listing](#contributing) would be greatly appreciated.
 
 ## General Machine Learning Information ![Introductory](https://img.shields.io/badge/subject-introductory-blue.svg)
 
@@ -99,7 +99,7 @@ Listing of useful (mostly) public learning resources for machine learning applic
 
 ## Contributing
 
-To contribute to this project please either start a pull request or an issue with the details of the information that you want added.
+Contributions to help improve the listing are very much welcome! Please read [CONTRIBUTING.md](https://github.com/matthewfeickert/HEP-ML-Resources/blob/master/CONTRIBUTING.md) for details on the process for submitting pull requests or filing issues.
 
 ## Authors
 
