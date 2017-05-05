@@ -18,6 +18,8 @@ Listing of useful (mostly) public learning resources for machine learning applic
 
 ## General Machine Learning Information ![Introductory](https://img.shields.io/badge/subject-introductory-blue.svg)
 
+### Lectures and Tutorials
+
 - [CERN Academic Training Lecture Regular Programme](https://indico.cern.ch/category/72/), April 2017 (Machine Learning):
 
   - [Machine Learning (Lecture 1) --- Michael Kagan](https://indico.cern.ch/event/619370/) (SLAC)
@@ -27,6 +29,12 @@ Listing of useful (mostly) public learning resources for machine learning applic
 - [Scikit-learn Tutorial](https://indico.cern.ch/event/595059/contributions/2522192/), [Gilles Louppe](https://glouppe.github.io/)
 
 - [Keras and TMVA interfaces Tutorial](https://indico.cern.ch/event/595059/contributions/2522193/), Stefan Wunsch
+
+- [Deep Learning in High Energy Physics](https://youtu.be/cSxQPFb0yOw), [Amir Farbin](http://www.uta.edu/physics/pages/faculty/profiles/farbin/index.html)
+
+### Courses
+
+- [Applications of Deep Learning to High Energy Physics](https://wiki.uta.edu/display/~afarbin/Physics+4%285%29391-002+-+Applications+of+Deep+Learning+to+High+Energy+Physics), [Amir Farbin](http://www.uta.edu/physics/pages/faculty/profiles/farbin/index.html) (Spring, 2017 - University of Texas at Arlington)
 
 ## Software
 
