@@ -1,4 +1,4 @@
-![License](https://img.shields.io/badge/license-MIT%20License-blue.svg)
+[![license](https://img.shields.io/github/license/matthewfeickert/HEP-ML-Resources.svg)]()
 
 # HEPML Resources
 
