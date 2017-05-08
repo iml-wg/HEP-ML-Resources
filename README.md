@@ -98,6 +98,7 @@ Listing of useful (mostly) public learning resources for machine learning applic
 - [2nd S2I2 HEP/CS Workshop (Parallel Session)](https://indico.cern.ch/event/622920/timetable/#5-parallel-session-machine-lea) (May 1-3, 2017)
 - [CERN openlab workshop on Machine Learning and Data Analytics](https://indico.cern.ch/event/627852/) (April 27, 2017)
 - [First IML Workshop on Machine Learning](https://indico.cern.ch/event/595059/) (March 20-22, 2017)
+- [DS@HEP at the Simons Foundation](https://indico.hep.caltech.edu/indico/conferenceDisplay.py?confId=102) (July 5-7, 2016)
 - [Second Machine Learning in High Energy Physics Summer School 2016](https://indico.cern.ch/event/497368/overview) (June 20-26, 2016)
 - [ALICE Mini-Workshop 2016: Statistical Methods and Machine Learning Tutorial](https://indico.cern.ch/event/514695/) (May 18, 2016) ![ALICE only](https://img.shields.io/badge/restricted-ALICE-red.svg)
 - [ATLAS Machine Learning Workshop (2016)](https://indico.cern.ch/event/483999/) (March 29-31, 2016) ![ATLAS only](https://img.shields.io/badge/restricted-ATLAS-red.svg)
