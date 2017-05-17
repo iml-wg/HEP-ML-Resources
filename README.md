@@ -1,4 +1,4 @@
-[![license](https://img.shields.io/github/license/matthewfeickert/HEP-ML-Resources.svg)]()
+[![license](https://img.shields.io/github/license/iml-wg/HEP-ML-Resources.svg)]()
 
 # HEPML Resources
 
@@ -22,13 +22,13 @@ Listing of useful (mostly) public learning resources for machine learning applic
 
 - [CERN Academic Training Lecture Regular Programme](https://indico.cern.ch/category/72/), April 2017 (Machine Learning):
 
-  - [Machine Learning (Lecture 1) --- Michael Kagan](https://indico.cern.ch/event/619370/) (SLAC)
-  - [Machine Learning (Lecture 2) --- Michael Kagan](https://indico.cern.ch/event/619371/) (SLAC)
-  - [Deep Learning and Vision --- Jonathon Shlens](https://indico.cern.ch/event/619372/) (Google Research)
+  - [Machine Learning (Lecture 1)](https://indico.cern.ch/event/619370/) --- [Michael Kagan](https://www.linkedin.com/in/michael-kagan-06292616/) (SLAC)
+  - [Machine Learning (Lecture 2)](https://indico.cern.ch/event/619371/) --- [Michael Kagan](https://www.linkedin.com/in/michael-kagan-06292616/) (SLAC)
+  - [Deep Learning and Vision](https://indico.cern.ch/event/619372/) --- [Jonathon Shlens](https://research.google.com/pubs/JonathonShlens.html) (Google Research)
 
 - [Scikit-learn Tutorial](https://indico.cern.ch/event/595059/contributions/2522192/), [Gilles Louppe](https://glouppe.github.io/)
 
-- [Keras and TMVA interfaces Tutorial](https://indico.cern.ch/event/595059/contributions/2522193/), Stefan Wunsch
+- [Keras and TMVA interfaces Tutorial](https://indico.cern.ch/event/595059/contributions/2522193/), [Stefan Wunsch](https://www.ims.kit.edu/14_117.php)
 
 - [Deep Learning in High Energy Physics](https://youtu.be/cSxQPFb0yOw), [Amir Farbin](http://www.uta.edu/physics/pages/faculty/profiles/farbin/index.html)
 
