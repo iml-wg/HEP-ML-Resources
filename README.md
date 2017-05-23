@@ -82,6 +82,8 @@ Listing of useful (mostly) public learning resources for machine learning applic
 
 - A. Aurisano, A. Radovic, D. Rocco, A. Himmel, M. D. Messier, E. Niner, G. Pawloski, F. Psihas, A. Sousa, and P. Vahle, "[A Convolutional Neural Network Neutrino Event Classifier](https://inspirehep.net/record/1444342)," JINST 11 (2016) no. 09, P09001, arXiv:1604.01444 [hep-ex].
 
+- L. de Oliveira, M. Kagan, L. Mackey, B. Nachman, and A. Schwartzman, "[Jet-images deep learning edition](https://inspirehep.net/record/1405106)," JHEP 07 (2016) 069, arXiv:1511.05190 [hep-ph].
+
 - P. Baldi, P. Sadowski, and D. Whiteson, ["Searching for Exotic Particles in High-Energy Physics with Deep Learning](https://inspirehep.net/record/1281836)," Nature Commun. 5 (2014) 4308, arXiv:1402.4735 [hep-ph].
 
 ## Workshops
