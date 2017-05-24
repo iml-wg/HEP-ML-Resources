@@ -26,7 +26,7 @@ Listing of useful (mostly) public learning resources for machine learning applic
   - [Machine Learning (Lecture 2)](https://indico.cern.ch/event/619371/) --- [Michael Kagan](https://www.linkedin.com/in/michael-kagan-06292616/) (SLAC)
   - [Deep Learning and Vision](https://indico.cern.ch/event/619372/) --- [Jonathon Shlens](https://research.google.com/pubs/JonathonShlens.html) (Google Research)
 
-- [Scikit-learn Tutorial](https://indico.cern.ch/event/595059/contributions/2522192/), [Gilles Louppe](https://glouppe.github.io/)
+- [Scikit-learn Tutorial](https://indico.cern.ch/event/595059/contributions/2522192/), [Gilles Louppe](https://glouppe.github.io/) [![nbviewer](https://img.shields.io/badge/view%20on-nbviewer-brightgreen.svg)](https://nbviewer.jupyter.org/github/glouppe/tutorials-iml2017/tree/master/)
 
 - [Keras and TMVA interfaces Tutorial](https://indico.cern.ch/event/595059/contributions/2522193/), [Stefan Wunsch](https://www.ims.kit.edu/14_117.php)
 
