@@ -30,6 +30,8 @@ Listing of useful (mostly) public learning resources for machine learning applic
 
 - [Keras and TMVA interfaces Tutorial](https://indico.cern.ch/event/595059/contributions/2522193/), [Stefan Wunsch](https://www.ims.kit.edu/14_117.php)
 
+- [Introduction to Deep Learning with Keras Tutorial](https://gist.github.com/lukedeo/0654e7310432d6d435126c556b863907), [Luke de Oliveira](https://ldo.io/)
+
 - [Deep Learning in High Energy Physics](https://youtu.be/cSxQPFb0yOw), [Amir Farbin](http://www.uta.edu/physics/pages/faculty/profiles/farbin/index.html)
 
 ### Courses
