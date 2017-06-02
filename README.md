@@ -61,6 +61,7 @@ Listing of useful (mostly) public learning resources for machine learning applic
 
 ## Lectures
 
+- [QCD-Aware Neural Networks for Jet Physics](https://indico.cern.ch/event/640111/), [Kyle Cranmer](http://theoryandpractice.org/)
 - [(Machine) Learning to Pivot with Adversarial Networks](http://indico.iihe.ac.be/indico/conferenceDisplay.py?confId=1082), [Gilles Louppe](https://glouppe.github.io/)
 
 <!-- ## Notebooks - [Vince Croft RooFit Notebooks](https://www.nikhef.nl/~vcroft/notebooks.html) -->
@@ -94,7 +95,7 @@ Listing of useful (mostly) public learning resources for machine learning applic
 
 - [Hammers & Nails - Machine Learning & HEP](https://www.weizmann.ac.il/conferences/SRitp/Summer2017/) (July 19-28, 2017)
 - [Third Machine Learning in High Energy Physics Summer School 2017](https://indico.cern.ch/event/613571/) (July 17-23, 2017)
-- [First School on Computational and Data Science for High Energy Physics](http://codas-hep.org/) (July 10-13, 2017)
+- [First Computational and Data Science School for High Energy Physics](http://codas-hep.org/) (July 10-13, 2017)
 - [ATLAS Machine Learning Workshop (2017)](https://indico.cern.ch/event/630665/overview) (June 6-9, 2017) ![ATLAS only](https://img.shields.io/badge/restricted-ATLAS-red.svg)
 
 ### Past
