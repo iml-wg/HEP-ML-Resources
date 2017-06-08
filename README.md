@@ -38,6 +38,10 @@ Listing of useful (mostly) public learning resources for machine learning applic
 
 - [Applications of Deep Learning to High Energy Physics](https://wiki.uta.edu/display/~afarbin/Physics+4%285%29391-002+-+Applications+of+Deep+Learning+to+High+Energy+Physics), [Amir Farbin](http://www.uta.edu/physics/pages/faculty/profiles/farbin/index.html) (Spring, 2017 - University of Texas at Arlington)
 
+### Journals
+
+- [Distill Research Journal](http://distill.pub/)
+
 ## Software
 
 ### Common software tools and environments used in HEP for ML
