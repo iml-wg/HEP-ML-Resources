@@ -63,6 +63,10 @@ Listing of useful (mostly) public learning resources for machine learning applic
 - [TensorFlow](https://www.tensorflow.org/)
 - [Theano](http://deeplearning.net/software/theano/)
 
+### HEP Developed ML Tools
+
+- [LWTNN](https://github.com/lwtnn/lwtnn)
+
 ## Lectures
 
 - [QCD-Aware Neural Networks for Jet Physics](https://indico.cern.ch/event/640111/), [Kyle Cranmer](http://theoryandpractice.org/)
@@ -100,10 +104,10 @@ Listing of useful (mostly) public learning resources for machine learning applic
 - [Hammers & Nails - Machine Learning & HEP](https://www.weizmann.ac.il/conferences/SRitp/Summer2017/) (July 19-28, 2017)
 - [Third Machine Learning in High Energy Physics Summer School 2017](https://indico.cern.ch/event/613571/) (July 17-23, 2017)
 - [First Computational and Data Science School for High Energy Physics](http://codas-hep.org/) (July 10-13, 2017)
-- [ATLAS Machine Learning Workshop (2017)](https://indico.cern.ch/event/630665/overview) (June 6-9, 2017) ![ATLAS only](https://img.shields.io/badge/restricted-ATLAS-red.svg)
 
 ### Past
 
+- [ATLAS Machine Learning Workshop (2017)](https://indico.cern.ch/event/630665/overview) (June 6-9, 2017) ![ATLAS only](https://img.shields.io/badge/restricted-ATLAS-red.svg)
 - [Workshop on Machine Learning and b-tagging](https://indico.cern.ch/event/615994/overview) (May 23-26, 2017) ![ATLAS only](https://img.shields.io/badge/restricted-ATLAS-red.svg)
 - [DS@HEP 2017](https://indico.fnal.gov/conferenceDisplay.py?confId=13497) (May 8-12, 2017)
 - [2nd S2I2 HEP/CS Workshop (Parallel Session)](https://indico.cern.ch/event/622920/timetable/#5-parallel-session-machine-lea) (May 1-3, 2017)
