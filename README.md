@@ -76,26 +76,27 @@ Listing of useful (mostly) public learning resources for machine learning applic
 
  ## Papers
 
-- M. Paganini, L. de Oliveira, and B. Nachman, "[CaloGAN: Simulating 3D High Energy Particle Showers in Multi-Layer Electromagnetic Calorimeters with Generative Adversarial Networks](https://inspirehep.net/record/1598455)," arXiv:1705.02355 [hep-ex].
-- G. Louppe, K. Cho, C. Becot, and K. Cranmer, "[QCD-Aware Recursive Neural Networks for Jet Physics](https://inspirehep.net/record/1511884)," arXiv:1702.00748 [hep-ph].
+- M. Paganini, L. de Oliveira, and B. Nachman, "[CaloGAN: Simulating 3D High Energy Particle Showers in Multi-Layer Electromagnetic Calorimeters with Generative Adversarial Networks](https://inspirehep.net/record/1598455)," arXiv:1705.02355 [hep-ex]. (May 5, 2017)
 
-- L. de Oliveira, M. Paganini, and B. Nachman, "[Learning Particle Physics by Example: Location-Aware Generative Adversarial Networks for Physics Synthesis](https://inspirehep.net/record/1510258)," arXiv:1701.05927 [stat.ML].
+- G. Louppe, K. Cho, C. Becot, and K. Cranmer, "[QCD-Aware Recursive Neural Networks for Jet Physics](https://inspirehep.net/record/1511884)," arXiv:1702.00748 [hep-ph]. (February 2, 2017)
 
-- J. Barnard, E. N. Dawe, M. J. Dolan, and N. Rajcic, ["Parton Shower Uncertainties in Jet Substructure Analyses with Deep Neural Networks](https://inspirehep.net/record/1485081)," Phys. Rev. D95 (2017) no. 1, 014018, arXiv:1609.00607 [hep-ph]
+- L. de Oliveira, M. Paganini, and B. Nachman, "[Learning Particle Physics by Example: Location-Aware Generative Adversarial Networks for Physics Synthesis](https://inspirehep.net/record/1510258)," arXiv:1701.05927 [stat.ML]. (January 20, 2017)
 
-- P. T. Komiske, E. M. Metodiev, and M. D. Schwartz, "[Deep learning in color: towards automated quark/gluon jet discrimination](https://inspirehep.net/record/1501944)," JHEP 01 (2017) 110, arXiv:1612.01551 [hep-ph].
+- P. T. Komiske, E. M. Metodiev, and M. D. Schwartz, "[Deep learning in color: towards automated quark/gluon jet discrimination](https://inspirehep.net/record/1501944)," JHEP 01 (2017) 110, arXiv:1612.01551 [hep-ph]. (December 5, 2016)
 
-- MicroBooNE Collaboration, R. Acciarri et al., "[Convolutional Neural Networks Applied to Neutrino Events in a Liquid Argon Time Projection Chamber](https://inspirehep.net/record/1498561)," JINST 12 (2017) no. 03, P03011, arXiv:1611.05531 [physics.ins-det].
+- MicroBooNE Collaboration, R. Acciarri et al., "[Convolutional Neural Networks Applied to Neutrino Events in a Liquid Argon Time Projection Chamber](https://inspirehep.net/record/1498561)," JINST 12 (2017) no. 03, P03011, arXiv:1611.05531 [physics.ins-det]. (November 16, 2016)
 
-- G. Bertone, M. P. Deisenroth, J. S. Kim, S. Liem, R. Ruiz de Austri, and M. Welling, "[Accelerating the BSM interpretation of LHC data with machine learning](https://inspirehep.net/record/1496641)," arXiv:1611.02704 [hep-ph].
+- J. Barnard, E. N. Dawe, M. J. Dolan, and N. Rajcic, ["Parton Shower Uncertainties in Jet Substructure Analyses with Deep Neural Networks](https://inspirehep.net/record/1485081)," Phys. Rev. D95 (2017) no. 1, 014018, arXiv:1609.00607 [hep-ph] (September 2, 2016)
 
-- M. Kagan, L. d. Oliveira, L. Mackey, B. Nachman, and A. Schwartzman, "[Boosted Jet Tagging with Jet-Images and Deep Neural Networks](http://inspirehep.net/record/1504297/)," EPJ Web Conf. 127 (2016) 00009.
+- M. Kagan, L. d. Oliveira, L. Mackey, B. Nachman, and A. Schwartzman, "[Boosted Jet Tagging with Jet-Images and Deep Neural Networks](http://inspirehep.net/record/1504297/)," EPJ Web Conf. 127 (2016) 00009\. (November 15, 2016)
 
-- A. Aurisano, A. Radovic, D. Rocco, A. Himmel, M. D. Messier, E. Niner, G. Pawloski, F. Psihas, A. Sousa, and P. Vahle, "[A Convolutional Neural Network Neutrino Event Classifier](https://inspirehep.net/record/1444342)," JINST 11 (2016) no. 09, P09001, arXiv:1604.01444 [hep-ex].
+- G. Bertone, M. P. Deisenroth, J. S. Kim, S. Liem, R. Ruiz de Austri, and M. Welling, "[Accelerating the BSM interpretation of LHC data with machine learning](https://inspirehep.net/record/1496641)," arXiv:1611.02704 [hep-ph]. (November 8, 2016)
 
-- L. de Oliveira, M. Kagan, L. Mackey, B. Nachman, and A. Schwartzman, "[Jet-images deep learning edition](https://inspirehep.net/record/1405106)," JHEP 07 (2016) 069, arXiv:1511.05190 [hep-ph].
+- A. Aurisano, A. Radovic, D. Rocco, A. Himmel, M. D. Messier, E. Niner, G. Pawloski, F. Psihas, A. Sousa, and P. Vahle, "[A Convolutional Neural Network Neutrino Event Classifier](https://inspirehep.net/record/1444342)," JINST 11 (2016) no. 09, P09001, arXiv:1604.01444 [hep-ex]. (April 5, 2016)
 
-- P. Baldi, P. Sadowski, and D. Whiteson, ["Searching for Exotic Particles in High-Energy Physics with Deep Learning](https://inspirehep.net/record/1281836)," Nature Commun. 5 (2014) 4308, arXiv:1402.4735 [hep-ph].
+- L. de Oliveira, M. Kagan, L. Mackey, B. Nachman, and A. Schwartzman, "[Jet-images deep learning edition](https://inspirehep.net/record/1405106)," JHEP 07 (2016) 069, arXiv:1511.05190 [hep-ph]. (November 16, 2015)
+
+- P. Baldi, P. Sadowski, and D. Whiteson, ["Searching for Exotic Particles in High-Energy Physics with Deep Learning](https://inspirehep.net/record/1281836)," Nature Commun. 5 (2014) 4308, arXiv:1402.4735 [hep-ph]. (February 19, 2014)
 
 ## Workshops
 
