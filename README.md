@@ -63,7 +63,7 @@ Listing of useful (mostly) public learning resources for machine learning applic
 - [TensorFlow](https://www.tensorflow.org/)
 - [Theano](http://deeplearning.net/software/theano/)
 
-### HEP Developed ML Tools
+### HEP Developed Inference Tools
 
 - [LWTNN](https://github.com/lwtnn/lwtnn)
 
