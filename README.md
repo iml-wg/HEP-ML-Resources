@@ -78,6 +78,8 @@ Listing of useful (mostly) public learning resources for machine learning applic
 
 - M. Paganini, L. de Oliveira, and B. Nachman, "[CaloGAN: Simulating 3D High Energy Particle Showers in Multi-Layer Electromagnetic Calorimeters with Generative Adversarial Networks](https://inspirehep.net/record/1598455)," arXiv:1705.02355 [hep-ex]. (May 5, 2017)
 
+- C. Shimmin, P. Sadowski, P. Baldi, E. Weik, D. Whiteson, E. Goul, and A. Sgaard, "[Decorrelated Jet Substructure Tagging using Adversarial Neural Networks](https://inspirehep.net/record/1516914)," arXiv:1703.03507 [hep-ex]. (March 9, 2017)
+
 - G. Louppe, K. Cho, C. Becot, and K. Cranmer, "[QCD-Aware Recursive Neural Networks for Jet Physics](https://inspirehep.net/record/1511884)," arXiv:1702.00748 [hep-ph]. (February 2, 2017)
 
 - L. de Oliveira, M. Paganini, and B. Nachman, "[Learning Particle Physics by Example: Location-Aware Generative Adversarial Networks for Physics Synthesis](https://inspirehep.net/record/1510258)," arXiv:1701.05927 [stat.ML]. (January 20, 2017)
