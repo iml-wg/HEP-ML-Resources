@@ -92,6 +92,8 @@ Listing of useful (mostly) public learning resources for machine learning applic
 
 - G. Bertone, M. P. Deisenroth, J. S. Kim, S. Liem, R. Ruiz de Austri, and M. Welling, "[Accelerating the BSM interpretation of LHC data with machine learning](https://inspirehep.net/record/1496641)," arXiv:1611.02704 [hep-ph]. (November 8, 2016)
 
+- G. Louppe, M. Kagan, and K. Cranmer, "[Learning to Pivot with Adversarial Networks](https://inspirehep.net/record/1495901)," arXiv:1611.01046 [stat.ME]. (November 3, 2016)
+
 - J. Barnard, E. N. Dawe, M. J. Dolan, and N. Rajcic, ["Parton Shower Uncertainties in Jet Substructure Analyses with Deep Neural Networks](https://inspirehep.net/record/1485081)," Phys. Rev. D95 (2017) no. 1, 014018, arXiv:1609.00607 [hep-ph] (September 2, 2016)
 
 - A. Aurisano, A. Radovic, D. Rocco, A. Himmel, M. D. Messier, E. Niner, G. Pawloski, F. Psihas, A. Sousa, and P. Vahle, "[A Convolutional Neural Network Neutrino Event Classifier](https://inspirehep.net/record/1444342)," JINST 11 (2016) no. 09, P09001, arXiv:1604.01444 [hep-ex]. (April 5, 2016)
