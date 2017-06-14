@@ -72,6 +72,10 @@ Listing of useful (mostly) public learning resources for machine learning applic
 - [QCD-Aware Neural Networks for Jet Physics](https://indico.cern.ch/event/640111/), [Kyle Cranmer](http://theoryandpractice.org/)
 - [(Machine) Learning to Pivot with Adversarial Networks](http://indico.iihe.ac.be/indico/conferenceDisplay.py?confId=1082), [Gilles Louppe](https://glouppe.github.io/)
 
+### Lecture and Seminar Series
+
+- [CERN Data Science Seminars](https://indico.cern.ch/category/9320/)
+
 <!-- ## Notebooks - [Vince Croft RooFit Notebooks](https://www.nikhef.nl/~vcroft/notebooks.html) -->
 
  ## Papers
