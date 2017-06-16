@@ -4,9 +4,14 @@
 
 ## Table of contents
 
-- [General ML Info](#general-machine-learning-information-)
+- [Introductory Material](#introductory-material)
+   - [Lectures](#lectures)
+   - [Seminar Series](#seminar-series)
+   - [Tutorials](#tutorials)
+   - [HEP-ML Schools](#hep-ml-schools)
+   - [Courses](#courses)
+   - [Journals](#journals)
 - [Software](#software)
-- [Lectures](#lectures)
 - [Papers](#papers)
 - [Workshops](#workshops)
 - [Tweets](#tweets)
@@ -16,23 +21,39 @@ Listing of useful (mostly) public learning resources for machine learning applic
 
 > **N.B.:** This listing will almost certainly be biased towards work done by ATLAS scientists, as the maintainer is a member of ATLAS and so sees ATLAS work the most. However, this is not the desired case and [help to diversify this listing](#contributing) would be greatly appreciated.
 
-## General Machine Learning Information ![Introductory](https://img.shields.io/badge/subject-introductory-blue.svg)
+## Introductory Material ![Introductory](https://img.shields.io/badge/subject-introductory-blue.svg)
 
-### Lectures and Tutorials
+### Lectures
 
 - [CERN Academic Training Lecture Regular Programme](https://indico.cern.ch/category/72/), April 2017 (Machine Learning):
 
   - [Machine Learning (Lecture 1)](https://indico.cern.ch/event/619370/) --- [Michael Kagan](https://www.linkedin.com/in/michael-kagan-06292616/) (SLAC)
   - [Machine Learning (Lecture 2)](https://indico.cern.ch/event/619371/) --- [Michael Kagan](https://www.linkedin.com/in/michael-kagan-06292616/) (SLAC)
   - [Deep Learning and Vision](https://indico.cern.ch/event/619372/) --- [Jonathon Shlens](https://research.google.com/pubs/JonathonShlens.html) (Google Research)
-
-- [Scikit-learn Tutorial](https://indico.cern.ch/event/595059/contributions/2522192/), [Gilles Louppe](https://glouppe.github.io/) [![nbviewer](https://img.shields.io/badge/view%20on-nbviewer-brightgreen.svg)](https://nbviewer.jupyter.org/github/glouppe/tutorials-iml2017/tree/master/)
-
-- [Keras and TMVA interfaces Tutorial](https://indico.cern.ch/event/595059/contributions/2522193/), [Stefan Wunsch](https://www.ims.kit.edu/14_117.php)
-
-- [Introduction to Deep Learning with Keras Tutorial](https://gist.github.com/lukedeo/0654e7310432d6d435126c556b863907), [Luke de Oliveira](https://ldo.io/)
-
+  
 - [Deep Learning in High Energy Physics](https://youtu.be/cSxQPFb0yOw), [Amir Farbin](http://www.uta.edu/physics/pages/faculty/profiles/farbin/index.html)
+
+### Seminar Series
+
+- [CERN Data Science Seminars](https://indico.cern.ch/category/9320/)
+
+### Tutorials
+
+- [Scikit-learn Tutorial](https://indico.cern.ch/event/595059/contributions/2522192/), by [Gilles Louppe](https://glouppe.github.io/) [![nbviewer](https://img.shields.io/badge/view%20on-nbviewer-brightgreen.svg)](https://nbviewer.jupyter.org/github/glouppe/tutorials-iml2017/tree/master/)
+
+- [Keras and TMVA interfaces Tutorial](https://indico.cern.ch/event/595059/contributions/2522193/), by [Stefan Wunsch](https://www.ims.kit.edu/14_117.php)
+
+- [Introduction to Deep Learning with Keras Tutorial](https://gist.github.com/lukedeo/0654e7310432d6d435126c556b863907), by [Luke de Oliveira](https://ldo.io/)
+
+- [Introduction to Deep Learning with Keras Tutorial](http://cds.cern.ch/record/2157570?ln=en) - [2nd Developers@CERN Forum](https://indico.cern.ch/event/487416/timetable/), by [Michela Paganini](http://mickypaganini.github.io)
+
+### HEP-ML Schools
+#### Upcoming:
+- [3rd Machine Learning in High Energy Physics Summer School 2017](https://indico.cern.ch/event/613571/) (July 17-23, 2017)
+- [1st Computational and Data Science School for High Energy Physics](http://codas-hep.org/) (July 10-13, 2017)
+#### Past:
+- [2nd Machine Learning in High Energy Physics Summer School 2016](https://indico.cern.ch/event/497368/overview) (June 20-26, 2016)
+- [1st Machine Learning in High Energy Physics Summer School 2015](https://www.hse.ru/mlhep2015) (August 27-30, 2015)
 
 ### Courses
 
@@ -50,7 +71,7 @@ Listing of useful (mostly) public learning resources for machine learning applic
 
 ## Software
 
-### Common software tools and environments used in HEP for ML
+#### Common software tools and environments used in HEP for ML
 
 - The [Conda package and environment manager](https://conda.io/docs/) and [Anaconda](https://www.continuum.io/anaconda-overview) Python library collection
 
@@ -60,27 +81,20 @@ Listing of useful (mostly) public learning resources for machine learning applic
 
 - [TMVA](http://tmva.sourceforge.net/)
 
-### High level deep learning libraries/framework APIs
+#### High level deep learning libraries/framework APIs
 
 - [Keras](https://keras.io/)
 
-### Deep learning frameworks
+#### Deep learning frameworks
 
 - [TensorFlow](https://www.tensorflow.org/)
 - [Theano](http://deeplearning.net/software/theano/)
+- [PyTorch](http://pytorch.org/)
+- [Caffe2](https://caffe2.ai/)
 
-### HEP Developed Inference Tools
+#### HEP Developed Inference Tools
 
 - [LWTNN](https://github.com/lwtnn/lwtnn)
-
-## Lectures
-
-- [QCD-Aware Neural Networks for Jet Physics](https://indico.cern.ch/event/640111/), [Kyle Cranmer](http://theoryandpractice.org/)
-- [(Machine) Learning to Pivot with Adversarial Networks](http://indico.iihe.ac.be/indico/conferenceDisplay.py?confId=1082), [Gilles Louppe](https://glouppe.github.io/)
-
-### Lecture and Seminar Series
-
-- [CERN Data Science Seminars](https://indico.cern.ch/category/9320/)
 
 <!-- ## Notebooks - [Vince Croft RooFit Notebooks](https://www.nikhef.nl/~vcroft/notebooks.html) -->
 
@@ -91,6 +105,7 @@ Listing of useful (mostly) public learning resources for machine learning applic
 - C. Shimmin, P. Sadowski, P. Baldi, E. Weik, D. Whiteson, E. Goul, and A. Sgaard, "[Decorrelated Jet Substructure Tagging using Adversarial Neural Networks](https://inspirehep.net/record/1516914)," arXiv:1703.03507 [hep-ex]. (March 9, 2017)
 
 - G. Louppe, K. Cho, C. Becot, and K. Cranmer, "[QCD-Aware Recursive Neural Networks for Jet Physics](https://inspirehep.net/record/1511884)," arXiv:1702.00748 [hep-ph]. (February 2, 2017)
+   - Lecture: [QCD-Aware Neural Networks for Jet Physics](https://indico.cern.ch/event/640111/), by [Kyle Cranmer](http://theoryandpractice.org/)
 
 - L. de Oliveira, M. Paganini, and B. Nachman, "[Learning Particle Physics by Example: Location-Aware Generative Adversarial Networks for Physics Synthesis](https://inspirehep.net/record/1510258)," arXiv:1701.05927 [stat.ML]. (January 20, 2017)
 
@@ -103,6 +118,7 @@ Listing of useful (mostly) public learning resources for machine learning applic
 - G. Bertone, M. P. Deisenroth, J. S. Kim, S. Liem, R. Ruiz de Austri, and M. Welling, "[Accelerating the BSM interpretation of LHC data with machine learning](https://inspirehep.net/record/1496641)," arXiv:1611.02704 [hep-ph]. (November 8, 2016)
 
 - G. Louppe, M. Kagan, and K. Cranmer, "[Learning to Pivot with Adversarial Networks](https://inspirehep.net/record/1495901)," arXiv:1611.01046 [stat.ME]. (November 3, 2016)
+    - Lecture: [(Machine) Learning to Pivot with Adversarial Networks](http://indico.iihe.ac.be/indico/conferenceDisplay.py?confId=1082), by [Gilles Louppe](https://glouppe.github.io/)
 
 - J. Barnard, E. N. Dawe, M. J. Dolan, and N. Rajcic, ["Parton Shower Uncertainties in Jet Substructure Analyses with Deep Neural Networks](https://inspirehep.net/record/1485081)," Phys. Rev. D95 (2017) no. 1, 014018, arXiv:1609.00607 [hep-ph] (September 2, 2016)
 
@@ -119,8 +135,6 @@ Listing of useful (mostly) public learning resources for machine learning applic
 ### Upcoming
 
 - [Hammers & Nails - Machine Learning & HEP](https://www.weizmann.ac.il/conferences/SRitp/Summer2017/) (July 19-28, 2017)
-- [Third Machine Learning in High Energy Physics Summer School 2017](https://indico.cern.ch/event/613571/) (July 17-23, 2017)
-- [First Computational and Data Science School for High Energy Physics](http://codas-hep.org/) (July 10-13, 2017)
 
 ### Past
 
@@ -131,7 +145,6 @@ Listing of useful (mostly) public learning resources for machine learning applic
 - [CERN openlab workshop on Machine Learning and Data Analytics](https://indico.cern.ch/event/627852/) (April 27, 2017)
 - [First IML Workshop on Machine Learning](https://indico.cern.ch/event/595059/) (March 20-22, 2017)
 - [DS@HEP at the Simons Foundation](https://indico.hep.caltech.edu/indico/conferenceDisplay.py?confId=102) (July 5-7, 2016)
-- [Second Machine Learning in High Energy Physics Summer School 2016](https://indico.cern.ch/event/497368/overview) (June 20-26, 2016)
 - [ALICE Mini-Workshop 2016: Statistical Methods and Machine Learning Tutorial](https://indico.cern.ch/event/514695/) (May 18, 2016) ![ALICE only](https://img.shields.io/badge/restricted-ALICE-red.svg)
 - [ATLAS Machine Learning Workshop (2016)](https://indico.cern.ch/event/483999/) (March 29-31, 2016) ![ATLAS only](https://img.shields.io/badge/restricted-ATLAS-red.svg)
 - [Data Science @ LHC 2015](https://indico.cern.ch/event/395374/) (November 9-13, 2015)
