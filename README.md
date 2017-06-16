@@ -8,7 +8,7 @@
    - [Lectures](#lectures)
    - [Seminar Series](#seminar-series)
    - [Tutorials](#tutorials)
-   - [HEP-ML Schools](#hep-ml-schools)
+   - [Schools](#schools)
    - [Courses](#courses)
    - [Journals](#journals)
 - [Software](#software)
@@ -47,13 +47,18 @@ Listing of useful (mostly) public learning resources for machine learning applic
 
 - [Introduction to Deep Learning with Keras Tutorial](http://cds.cern.ch/record/2157570?ln=en) - [2nd Developers@CERN Forum](https://indico.cern.ch/event/487416/timetable/), by [Michela Paganini](http://mickypaganini.github.io)
 
-### HEP-ML Schools
-#### Upcoming:
+### Schools
+#### HEP-ML:
+##### Upcoming:
 - [3rd Machine Learning in High Energy Physics Summer School 2017](https://indico.cern.ch/event/613571/) (July 17-23, 2017)
 - [1st Computational and Data Science School for High Energy Physics](http://codas-hep.org/) (July 10-13, 2017)
-#### Past:
+##### Past:
 - [2nd Machine Learning in High Energy Physics Summer School 2016](https://indico.cern.ch/event/497368/overview) (June 20-26, 2016)
 - [1st Machine Learning in High Energy Physics Summer School 2015](https://www.hse.ru/mlhep2015) (August 27-30, 2015)
+#### Deep Learning:
+##### Past:
+- [Deep Learning Summer School 2016](https://sites.google.com/site/deeplearningsummerschool2016/) (August 1-7, 2016)
+
 
 ### Courses
 
