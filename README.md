@@ -38,6 +38,12 @@ Listing of useful (mostly) public learning resources for machine learning applic
 
 - [Applications of Deep Learning to High Energy Physics](https://wiki.uta.edu/display/~afarbin/Physics+4%285%29391-002+-+Applications+of+Deep+Learning+to+High+Energy+Physics), [Amir Farbin](http://www.uta.edu/physics/pages/faculty/profiles/farbin/index.html) (Spring, 2017 - University of Texas at Arlington)
 
+- [Tensorflow for Deep Learning Research](https://web.stanford.edu/class/cs20si/syllabus.html), (Spring, 2017 - Stanford Univeristy)
+
+- [Introduction to Machine Learning and Convolutional Neural Networks for Visual Recognition](https://www.youtube.com/watch?v=NfnWJUyUJYU), [Andrej Karpathy](https://cs.stanford.edu/people/karpathy/) (Winter, 2016 - Stanford Univeristy)
+
+- [Machine Learning in High Energy Physics 2016](https://github.com/yandexdataschool/mlhep2016), [Yandex School of Data Analysis](https://yandexdataschool.com/) (Summer, 2016 - Lund University)
+
 ### Journals
 
 - [Distill Research Journal](http://distill.pub/)
