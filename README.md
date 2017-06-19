@@ -30,8 +30,8 @@ Listing of useful (mostly) public learning resources for machine learning applic
   - [Machine Learning (Lecture 1)](https://indico.cern.ch/event/619370/) --- [Michael Kagan](https://www.linkedin.com/in/michael-kagan-06292616/) (SLAC)
   - [Machine Learning (Lecture 2)](https://indico.cern.ch/event/619371/) --- [Michael Kagan](https://www.linkedin.com/in/michael-kagan-06292616/) (SLAC)
   - [Deep Learning and Vision](https://indico.cern.ch/event/619372/) --- [Jonathon Shlens](https://research.google.com/pubs/JonathonShlens.html) (Google Research)
-  
-- [Deep Learning in High Energy Physics](https://youtu.be/cSxQPFb0yOw), [Amir Farbin](http://www.uta.edu/physics/pages/faculty/profiles/farbin/index.html)
+
+- [Deep Learning in High Energy Physics](https://youtu.be/cSxQPFb0yOw), by [Amir Farbin](http://www.uta.edu/physics/pages/faculty/profiles/farbin/index.html)
 
 ### Seminar Series
 
@@ -171,3 +171,4 @@ Listing maintainer: [Matthew Feickert](http://www.matthewfeickert.com/)
 - Following [PurpleBooth](https://github.com/PurpleBooth)'s [README style](https://gist.github.com/PurpleBooth/109311bb0361f32d87a2)
 - All badges made by [shields.io](http://shields.io/)
 - Inspiration for this listing came from the [Awesome Machine Learning](https://github.com/josephmisiti/awesome-machine-learning) repo
+- Many thanks to [everyone who has contributed their time](https://github.com/iml-wg/HEP-ML-Resources/network/members) to improve this project
