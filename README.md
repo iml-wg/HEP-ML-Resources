@@ -125,6 +125,10 @@ Listing of useful (mostly) public learning resources for machine learning applic
 - G. Louppe, M. Kagan, and K. Cranmer, "[Learning to Pivot with Adversarial Networks](https://inspirehep.net/record/1495901)," arXiv:1611.01046 [stat.ME]. (November 3, 2016)
     - Lecture: [(Machine) Learning to Pivot with Adversarial Networks](http://indico.iihe.ac.be/indico/conferenceDisplay.py?confId=1082), by [Gilles Louppe](https://glouppe.github.io/)
 
+- J. Stevens, M. Williams, "[uBoost: A boosting method for producing uniform selection efficiencies from multivariate classifiers](https://inspirehep.net/record/1236355)," arXiv:1305.7248 [nucl-ex]. (May 30, 2013)
+
+- A. Rogozhnikov, A. Bukva, V. Gligorov, A. Ustyuzhanin, M. Williams, "[New approaches for boosting to uniformity](https://inspirehep.net/record/1322385)," arXiv:1410.4140 [hep-ex]. (October 15, 2014)
+
 - J. Barnard, E. N. Dawe, M. J. Dolan, and N. Rajcic, ["Parton Shower Uncertainties in Jet Substructure Analyses with Deep Neural Networks](https://inspirehep.net/record/1485081)," Phys. Rev. D95 (2017) no. 1, 014018, arXiv:1609.00607 [hep-ph] (September 2, 2016)
 
 - S. Caron, J.S. Kim, K. Rolbiecki, R. Ruiz de Austri, B. Stienen "[The BSM-AI project: SUSY-AI -- Generalizing LHC limits on supersymmetry with machine learning](https://inspirehep.net/record/1456927)", EPJ C (2017) 77:257, arXiv:1605.02797 [hep-ph]. (May 9, 2016)
