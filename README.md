@@ -2,6 +2,10 @@
 
 # HEPML Resources
 
+Listing of useful (mostly) public learning resources for machine learning applications in high energy physics (HEPML). Listings will be in reverse chronological order (like a CV).
+
+> **N.B.:** This listing will almost certainly be biased towards work done by ATLAS scientists, as the maintainer is a member of ATLAS and so sees ATLAS work the most. However, this is not the desired case and [help to diversify this listing](#contributing) would be greatly appreciated.
+
 ## Table of contents
 
 - [Introductory Material](#introductory-material)
@@ -16,10 +20,6 @@
 - [Workshops](#workshops)
 - [Tweets](#tweets)
 - [Contributing](#contributing)
-
-Listing of useful (mostly) public learning resources for machine learning applications in high energy physics (HEPML). Listings will be in reverse chronological order (like a CV).
-
-> **N.B.:** This listing will almost certainly be biased towards work done by ATLAS scientists, as the maintainer is a member of ATLAS and so sees ATLAS work the most. However, this is not the desired case and [help to diversify this listing](#contributing) would be greatly appreciated.
 
 ## Introductory Material ![Introductory](https://img.shields.io/badge/subject-introductory-blue.svg)
 
@@ -48,17 +48,21 @@ Listing of useful (mostly) public learning resources for machine learning applic
 - [Introduction to Deep Learning with Keras Tutorial](http://cds.cern.ch/record/2157570?ln=en) - [2nd Developers@CERN Forum](https://indico.cern.ch/event/487416/timetable/), by [Michela Paganini](http://mickypaganini.github.io)
 
 ### Schools
+
 #### HEP-ML:
+
 ##### Upcoming:
 - [3rd Machine Learning in High Energy Physics Summer School 2017](https://indico.cern.ch/event/613571/) (July 17-23, 2017)
 - [1st Computational and Data Science School for High Energy Physics](http://codas-hep.org/) (July 10-13, 2017)
+
 ##### Past:
 - [2nd Machine Learning in High Energy Physics Summer School 2016](https://indico.cern.ch/event/497368/overview) (June 20-26, 2016)
 - [1st Machine Learning in High Energy Physics Summer School 2015](https://www.hse.ru/mlhep2015) (August 27-30, 2015)
+
 #### Deep Learning:
+
 ##### Past:
 - [Deep Learning Summer School 2016](https://sites.google.com/site/deeplearningsummerschool2016/) (August 1-7, 2016)
-
 
 ### Courses
 
