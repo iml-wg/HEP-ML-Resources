@@ -133,7 +133,11 @@ Listing of useful (mostly) public learning resources for machine learning applic
 
 - L. de Oliveira, M. Kagan, L. Mackey, B. Nachman, and A. Schwartzman, "[Jet-images deep learning edition](https://inspirehep.net/record/1405106)," JHEP 07 (2016) 069, arXiv:1511.05190 [hep-ph]. (November 16, 2015)
 
+- A. Rogozhnikov, A. Bukva, V. Gligorov, A. Ustyuzhanin, M. Williams, "[New approaches for boosting to uniformity](https://inspirehep.net/record/1322385)," arXiv:1410.4140 [hep-ex]. (October 15, 2014)
+
 - P. Baldi, P. Sadowski, and D. Whiteson, ["Searching for Exotic Particles in High-Energy Physics with Deep Learning](https://inspirehep.net/record/1281836)," Nature Commun. 5 (2014) 4308, arXiv:1402.4735 [hep-ph]. (February 19, 2014)
+
+- J. Stevens, M. Williams, "[uBoost: A boosting method for producing uniform selection efficiencies from multivariate classifiers](https://inspirehep.net/record/1236355)," arXiv:1305.7248 [nucl-ex]. (May 30, 2013)
 
 ## Workshops
 
