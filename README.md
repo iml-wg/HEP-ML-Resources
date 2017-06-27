@@ -143,6 +143,8 @@ Listing of useful (mostly) public learning resources for machine learning applic
 
 - J. Stevens, M. Williams, "[uBoost: A boosting method for producing uniform selection efficiencies from multivariate classifiers](https://inspirehep.net/record/1236355)," arXiv:1305.7248 [nucl-ex]. (May 30, 2013)
 
+- V. Gligorov, M. Williams, "[Efficient, reliable and fast high-level triggering using a bonsai boosted decision tree](https://inspirehep.net/record/1193348)," arXiv:1210.6861 [physics]. (October 25, 2012)
+
 ## Workshops
 
 ### Upcoming
