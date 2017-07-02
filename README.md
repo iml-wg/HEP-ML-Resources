@@ -180,5 +180,5 @@ Listing maintainer: [Matthew Feickert](http://www.matthewfeickert.com/)
 
 - Following [PurpleBooth](https://github.com/PurpleBooth)'s [README style](https://gist.github.com/PurpleBooth/109311bb0361f32d87a2)
 - All badges made by [shields.io](http://shields.io/)
-- Inspiration for this listing came from the [Awesome Machine Learning](https://github.com/josephmisiti/awesome-machine-learning) repo
+- Inspiration for this listing came from the [Awesome Machine Learning](https://github.com/josephmisiti/awesome-machine-learning) repo and [Dustin Tran](http://dustintran.com/)'s [Machine Learning Videos](https://github.com/dustinvtran/ml-videos) repo
 - Many thanks to [everyone who has contributed their time](https://github.com/iml-wg/HEP-ML-Resources/network/members) to improve this project
