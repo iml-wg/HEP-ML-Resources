@@ -111,12 +111,16 @@ Listing of useful (mostly) public learning resources for machine learning applic
 
 - J. Bendavid, "[Efficient Monte Carlo Integration Using Boosted Decision Trees and Generative Deep Neural Networks](https://inspirehep.net/record/1608392)," arXiv:1707.00028 [hep-ph]. (June 30, 2017)
 
+- T. Cohen, M. Freytsis, and B. Ostdiek, "[(Machine) Learning to Do More with Less](https://inspirehep.net/record/1608029)," arXiv:1706.09451 [hep-ph]. (June 28, 2017)
+
 - M. Paganini, L. de Oliveira, and B. Nachman, "[CaloGAN: Simulating 3D High Energy Particle Showers in Multi-Layer Electromagnetic Calorimeters with Generative Adversarial Networks](https://inspirehep.net/record/1598455)," arXiv:1705.02355 [hep-ex]. (May 5, 2017)
 
 - C. Shimmin, P. Sadowski, P. Baldi, E. Weik, D. Whiteson, E. Goul, and A. Sgaard, "[Decorrelated Jet Substructure Tagging using Adversarial Neural Networks](https://inspirehep.net/record/1516914)," arXiv:1703.03507 [hep-ex]. (March 9, 2017)
 
 - G. Louppe, K. Cho, C. Becot, and K. Cranmer, "[QCD-Aware Recursive Neural Networks for Jet Physics](https://inspirehep.net/record/1511884)," arXiv:1702.00748 [hep-ph]. (February 2, 2017)
    - Lecture: [QCD-Aware Neural Networks for Jet Physics](https://indico.cern.ch/event/640111/), by [Kyle Cranmer](http://theoryandpractice.org/)
+
+- L. M. Dery, B. Nachman, F. Rubbo, and A. Schwartzman, "[Weakly Supervised Classification in High Energy Physics](https://inspirehep.net/record/1511880)," JHEP 05 (2017) 145, arXiv:1702.00414 [hep-ph]. (February 1, 2017)
 
 - L. de Oliveira, M. Paganini, and B. Nachman, "[Learning Particle Physics by Example: Location-Aware Generative Adversarial Networks for Physics Synthesis](https://inspirehep.net/record/1510258)," arXiv:1701.05927 [stat.ML]. (January 20, 2017)
 
