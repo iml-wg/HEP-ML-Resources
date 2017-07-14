@@ -53,9 +53,9 @@ Listing of useful (mostly) public learning resources for machine learning applic
 
 ##### Upcoming:
 - [3rd Machine Learning in High Energy Physics Summer School 2017](https://indico.cern.ch/event/613571/) (July 17-23, 2017)
-- [1st Computational and Data Science School for High Energy Physics](http://codas-hep.org/) (July 10-13, 2017)
 
 ##### Past:
+- [1st Computational and Data Science School for High Energy Physics](http://codas-hep.org/) (July 10-13, 2017)
 - [2nd Machine Learning in High Energy Physics Summer School 2016](https://indico.cern.ch/event/497368/overview) (June 20-26, 2016)
 - [1st Machine Learning in High Energy Physics Summer School 2015](https://www.hse.ru/mlhep2015) (August 27-30, 2015)
 
