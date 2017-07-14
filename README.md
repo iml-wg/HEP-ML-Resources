@@ -159,6 +159,7 @@ Listing of useful (mostly) public learning resources for machine learning applic
 
 ### Past
 
+- [CMS Machine Learning Workshop (2017)](https://indico.cern.ch/event/646801) (July 5-6, 2017) ![CMS only](https://img.shields.io/badge/restricted-CMS-red.svg)
 - [ATLAS Machine Learning Workshop (2017)](https://indico.cern.ch/event/630665/overview) (June 6-9, 2017) ![ATLAS only](https://img.shields.io/badge/restricted-ATLAS-red.svg)
 - [Workshop on Machine Learning and b-tagging](https://indico.cern.ch/event/615994/overview) (May 23-26, 2017) ![ATLAS only](https://img.shields.io/badge/restricted-ATLAS-red.svg)
 - [DS@HEP 2017](https://indico.fnal.gov/conferenceDisplay.py?confId=13497) (May 8-12, 2017)
