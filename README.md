@@ -124,6 +124,8 @@ Listing of useful (mostly) public learning resources for machine learning applic
 
 - L. de Oliveira, M. Paganini, and B. Nachman, "[Learning Particle Physics by Example: Location-Aware Generative Adversarial Networks for Physics Synthesis](https://inspirehep.net/record/1510258)," arXiv:1701.05927 [stat.ML]. (January 20, 2017)
 
+- L.-G. Pang, K. Zhou, N. Su, H. Petersen, H. Stocker, X.-N. Wang, "[An equation-of-state-meter of QCD transition from deep learning](https://arxiv.org/abs/1612.04262)," arXiv:1612.04262 [hep-ph]. (December 13 2016)
+
 - P. T. Komiske, E. M. Metodiev, and M. D. Schwartz, "[Deep learning in color: towards automated quark/gluon jet discrimination](https://inspirehep.net/record/1501944)," JHEP 01 (2017) 110, arXiv:1612.01551 [hep-ph]. (December 5, 2016)
 
 - MicroBooNE Collaboration, R. Acciarri et al., "[Convolutional Neural Networks Applied to Neutrino Events in a Liquid Argon Time Projection Chamber](https://inspirehep.net/record/1498561)," JINST 12 (2017) no. 03, P03011, arXiv:1611.05531 [physics.ins-det]. (November 16, 2016)
