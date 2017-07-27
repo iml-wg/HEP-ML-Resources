@@ -171,6 +171,7 @@ Listing of useful (mostly) public learning resources for machine learning applic
 - [DS@HEP at the Simons Foundation](https://indico.hep.caltech.edu/indico/conferenceDisplay.py?confId=102) (July 5-7, 2016)
 - [ALICE Mini-Workshop 2016: Statistical Methods and Machine Learning Tutorial](https://indico.cern.ch/event/514695/) (May 18, 2016) ![ALICE only](https://img.shields.io/badge/restricted-ALICE-red.svg)
 - [ATLAS Machine Learning Workshop (2016)](https://indico.cern.ch/event/483999/) (March 29-31, 2016) ![ATLAS only](https://img.shields.io/badge/restricted-ATLAS-red.svg)
+- [Heavy Flavour Data Mining workshop](https://indico.cern.ch/event/433556/) (February 18-20, 2016)
 - [Data Science @ LHC 2015](https://indico.cern.ch/event/395374/) (November 9-13, 2015)
 
 ## Tweets
