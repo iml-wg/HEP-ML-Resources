@@ -76,8 +76,6 @@ Listing of useful (mostly) public learning resources for machine learning applic
 
 - [Introduction to Machine Learning and Convolutional Neural Networks for Visual Recognition](https://www.youtube.com/watch?v=NfnWJUyUJYU), [Andrej Karpathy](https://cs.stanford.edu/people/karpathy/) (Winter, 2016 - Stanford Univeristy)
 
-- [Machine Learning in High Energy Physics 2016](https://github.com/yandexdataschool/mlhep2016), [Yandex School of Data Analysis](https://yandexdataschool.com/) (Summer, 2016 - Lund University)
-
 ### Journals
 
 - [Distill Research Journal](http://distill.pub/)
