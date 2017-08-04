@@ -1,4 +1,4 @@
-[![license](https://img.shields.io/github/license/iml-wg/HEP-ML-Resources.svg)]()
+[![license](https://img.shields.io/github/license/iml-wg/HEP-ML-Resources.svg)](https://github.com/iml-wg/HEP-ML-Resources/blob/master/LICENSE)
 
 # HEPML Resources
 
