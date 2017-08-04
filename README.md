@@ -45,19 +45,23 @@ Listing of useful (mostly) public learning resources for machine learning applic
 
 - [Introduction to Deep Learning with Keras Tutorial](https://gist.github.com/lukedeo/0654e7310432d6d435126c556b863907), by [Luke de Oliveira](https://ldo.io/)
 
-- [Introduction to Deep Learning with Keras Tutorial](http://cds.cern.ch/record/2157570?ln=en) - [2nd Developers@CERN Forum](https://indico.cern.ch/event/487416/timetable/), by [Michela Paganini](http://mickypaganini.github.io)
+- [Introduction to Deep Learning with Keras Tutorial](https://indico.cern.ch/event/487416/contributions/2174907/) - [2nd Developers@CERN Forum](https://indico.cern.ch/event/487416/timetable/), by [Michela Paganini](http://mickypaganini.github.io)
 
 ### Schools
 
 #### HEP-ML:
 
 ##### Upcoming:
-- [3rd Machine Learning in High Energy Physics Summer School 2017](https://indico.cern.ch/event/613571/) (July 17-23, 2017)
+- TBA
 
 ##### Past:
+- [3rd Machine Learning in High Energy Physics Summer School 2017](https://indico.cern.ch/event/613571/) (July 17-23, 2017)
+   - Associated [Yandex School of Data Analysis](https://github.com/yandexdataschool) repo: [mlhep2017](https://github.com/yandexdataschool/mlhep2017)
 - [1st Computational and Data Science School for High Energy Physics](http://codas-hep.org/) (July 10-13, 2017)
 - [2nd Machine Learning in High Energy Physics Summer School 2016](https://indico.cern.ch/event/497368/overview) (June 20-26, 2016)
+   - Associated [Yandex School of Data Analysis](https://github.com/yandexdataschool) repo: [mlhep2016](https://github.com/yandexdataschool/mlhep2016)
 - [1st Machine Learning in High Energy Physics Summer School 2015](https://www.hse.ru/mlhep2015) (August 27-30, 2015)
+   - Associated [Yandex School of Data Analysis](https://github.com/yandexdataschool) repo: [mlhep2015](https://github.com/yandexdataschool/mlhep2015)
 
 #### Deep Learning:
 
@@ -157,10 +161,11 @@ Listing of useful (mostly) public learning resources for machine learning applic
 
 ### Upcoming
 
-- [Hammers & Nails - Machine Learning & HEP](https://www.weizmann.ac.il/conferences/SRitp/Summer2017/) (July 19-28, 2017)
+- TBA
 
 ### Past
 
+- [Hammers & Nails - Machine Learning & HEP](https://www.weizmann.ac.il/conferences/SRitp/Summer2017/) (July 19-28, 2017)
 - [CMS Machine Learning Workshop (2017)](https://indico.cern.ch/event/646801) (July 5-6, 2017) ![CMS only](https://img.shields.io/badge/restricted-CMS-red.svg)
 - [ATLAS Machine Learning Workshop (2017)](https://indico.cern.ch/event/630665/overview) (June 6-9, 2017) ![ATLAS only](https://img.shields.io/badge/restricted-ATLAS-red.svg)
 - [Workshop on Machine Learning and b-tagging](https://indico.cern.ch/event/615994/overview) (May 23-26, 2017) ![ATLAS only](https://img.shields.io/badge/restricted-ATLAS-red.svg)
