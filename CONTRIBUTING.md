@@ -34,12 +34,12 @@ into the `.md` file.
 Badges do not have to be static. For example, you can have a badge that automatically detects the license for a given repository:
 
 ```
-[![license](https://img.shields.io/github/license/iml-wg/HEP-ML-Resources.svg)]()
+[![license](https://img.shields.io/github/license/iml-wg/HEP-ML-Resources.svg)](https://github.com/iml-wg/HEP-ML-Resources/blob/master/LICENSE)
 ```
 
-generates the badge
+generates the linked badge
 
-[![license](https://img.shields.io/github/license/iml-wg/HEP-ML-Resources.svg)]()
+[![license](https://img.shields.io/github/license/iml-wg/HEP-ML-Resources.svg)](https://github.com/iml-wg/HEP-ML-Resources/blob/master/LICENSE)
 
 ### How do I add a workshop?
 
