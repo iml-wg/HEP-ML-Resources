@@ -159,7 +159,7 @@ Listing of useful (mostly) public learning resources for machine learning applic
 
 ### Upcoming
 
-- TBA
+- [18th International Workshop on Advanced Computing and Analysis Techniques in Physics Research (ACAT 2017)](https://indico.cern.ch/event/567550/) (August 21-25, 2017)
 
 ### Past
 
