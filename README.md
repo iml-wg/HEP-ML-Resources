@@ -88,9 +88,9 @@ Listing of useful (mostly) public learning resources for machine learning applic
 
   - [Using ROOT/PyROOT with Conda and NumPy](https://indico.cern.ch/event/619371/attachments/1450504/2236434/Kagan_Lecture2.pdf#page=99)
 
-- [scikit-learn](http://scikit-learn.org/stable/)
+- [scikit-learn](http://scikit-learn.org/stable/): General machine learning package
 
-- [TMVA](http://tmva.sourceforge.net/)
+- [TMVA](http://tmva.sourceforge.net/): ROOT's builtin machine learning package
 
 #### High level deep learning libraries/framework APIs
 
@@ -103,9 +103,13 @@ Listing of useful (mostly) public learning resources for machine learning applic
 - [PyTorch](http://pytorch.org/)
 - [Caffe2](https://caffe2.ai/)
 
-#### HEP Developed Inference Tools
+#### HEP to ML bridge tools
 
-- [LWTNN](https://github.com/lwtnn/lwtnn)
+- [lwtnn](https://github.com/lwtnn/lwtnn): Tool to run Keras networks in C++ code
+
+- [root_numpy](https://github.com/scikit-hep/root_numpy): The interface between ROOT and numpy
+
+- [ttree2hdf5](https://github.com/dguest/ttree2hdf5): Mimimalist ROOT to HDF5 converter
 
 <!-- ## Notebooks - [Vince Croft RooFit Notebooks](https://www.nikhef.nl/~vcroft/notebooks.html) -->
 
