@@ -163,10 +163,11 @@ Listing of useful (mostly) public learning resources for machine learning applic
 
 ### Upcoming
 
-- [18th International Workshop on Advanced Computing and Analysis Techniques in Physics Research (ACAT 2017)](https://indico.cern.ch/event/567550/) (August 21-25, 2017)
+- [4th International Connecting The Dots Workshop (2018)](https://indico.cern.ch/event/658267/) (March 20-22, 2018)
 
 ### Past
 
+- [18th International Workshop on Advanced Computing and Analysis Techniques in Physics Research (ACAT 2017)](https://indico.cern.ch/event/567550/) (August 21-25, 2017)
 - [Hammers & Nails - Machine Learning & HEP](https://www.weizmann.ac.il/conferences/SRitp/Summer2017/) (July 19-28, 2017)
 - [CMS Machine Learning Workshop (2017)](https://indico.cern.ch/event/646801) (July 5-6, 2017) ![CMS only](https://img.shields.io/badge/restricted-CMS-red.svg)
 - [ATLAS Machine Learning Workshop (2017)](https://indico.cern.ch/event/630665/overview) (June 6-9, 2017) ![ATLAS only](https://img.shields.io/badge/restricted-ATLAS-red.svg)
