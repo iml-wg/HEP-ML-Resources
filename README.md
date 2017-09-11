@@ -74,7 +74,9 @@ Listing of useful (mostly) public learning resources for machine learning applic
 
 - [Tensorflow for Deep Learning Research](https://web.stanford.edu/class/cs20si/syllabus.html), (Spring, 2017 - Stanford Univeristy)
 
-- [Introduction to Machine Learning and Convolutional Neural Networks for Visual Recognition](https://www.youtube.com/watch?v=NfnWJUyUJYU), [Andrej Karpathy](https://cs.stanford.edu/people/karpathy/) (Winter, 2016 - Stanford Univeristy)
+- Introduction to Machine Learning and Convolutional Neural Networks for Visual Recognition:
+  - [Spring, 2017](https://www.youtube.com/watch?v=vT1JzLTH4G4&list=PL3FW7Lu3i5JvHM8ljYj-zLfQRF3EO8sYv) - Stanford University, [Fei-Fei Li](http://vision.stanford.edu/feifeili/), [Justin Johnson](http://cs.stanford.edu/people/jcjohns/), [Serena Yeung](http://ai.stanford.edu/~syyeung/)
+  - [Winter, 2016](https://www.youtube.com/watch?v=NfnWJUyUJYU) - Stanford University, [Andrej Karpathy](https://cs.stanford.edu/people/karpathy/), [Fei-Fei Li](http://vision.stanford.edu/feifeili/), [Justin Johnson](http://cs.stanford.edu/people/jcjohns/)
 
 ### Journals
 
