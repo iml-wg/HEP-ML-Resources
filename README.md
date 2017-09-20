@@ -117,6 +117,8 @@ Listing of useful (mostly) public learning resources for machine learning applic
 
  ## Papers
 
+ - M. Frate, K. Cranmer, S. Kalia, A. Vandenberg-Rodes, and D. Whiteson, “[Modeling Smooth Backgrounds and Generic Localized Signals with Gaussian Processes](https://inspirehep.net/record/1624168),” arXiv:1709.05681 [physics.data-an]. (September 17, 2017)
+
 - J. Bendavid, "[Efficient Monte Carlo Integration Using Boosted Decision Trees and Generative Deep Neural Networks](https://inspirehep.net/record/1608392)," arXiv:1707.00028 [hep-ph]. (June 30, 2017)
 
 - T. Cohen, M. Freytsis, and B. Ostdiek, "[(Machine) Learning to Do More with Less](https://inspirehep.net/record/1608029)," arXiv:1706.09451 [hep-ph]. (June 28, 2017)
@@ -150,6 +152,8 @@ Listing of useful (mostly) public learning resources for machine learning applic
 - S. Caron, J.S. Kim, K. Rolbiecki, R. Ruiz de Austri, B. Stienen "[The BSM-AI project: SUSY-AI -- Generalizing LHC limits on supersymmetry with machine learning](https://inspirehep.net/record/1456927)", EPJ C (2017) 77:257, arXiv:1605.02797 [hep-ph]. (May 9, 2016)
 
 - A. Aurisano, A. Radovic, D. Rocco, A. Himmel, M. D. Messier, E. Niner, G. Pawloski, F. Psihas, A. Sousa, and P. Vahle, "[A Convolutional Neural Network Neutrino Event Classifier](https://inspirehep.net/record/1444342)," JINST 11 (2016) no. 09, P09001, arXiv:1604.01444 [hep-ex]. (April 5, 2016)
+
+- P. Baldi, K. Cranmer, T. Faucett, P. Sadowski, and D. Whiteson, “[Parameterized neural networks for high-energy physics](https://inspirehep.net/record/1418479),” Eur. Phys. J. C76 (2016) no. 5, 235, arXiv:1601.07913 [hep-ex]. (January 28, 2016)
 
 - L. de Oliveira, M. Kagan, L. Mackey, B. Nachman, and A. Schwartzman, "[Jet-images deep learning edition](https://inspirehep.net/record/1405106)," JHEP 07 (2016) 069, arXiv:1511.05190 [hep-ph]. (November 16, 2015)
 
