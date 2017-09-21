@@ -167,6 +167,8 @@ Listing of useful (mostly) public learning resources for machine learning applic
 
 - V. Gligorov, M. Williams, "[Efficient, reliable and fast high-level triggering using a bonsai boosted decision tree](https://inspirehep.net/record/1193348)," arXiv:1210.6861 [physics]. (October 25, 2012)
 
+- B. H. Denby, “[Neural Networks and Cellular Automata in Experimental High-energy Physics](http://inspirehep.net/record/253511),” Comput. Phys. Commun. 49 (1988) 429–448. (September 20, 1987)
+
 ## Workshops
 
 ### Upcoming
