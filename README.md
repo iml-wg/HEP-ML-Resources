@@ -25,6 +25,8 @@ Listing of useful (mostly) public learning resources for machine learning applic
 
 ### Lectures
 
+- [Nikhef Colloquium: "Teaching machines to discover particles"](https://indico.nikhef.nl/event/878/), by [Gilles Louppe](https://glouppe.github.io/) (September 29, 2017)
+
 - [CERN Academic Training Lecture Regular Programme](https://indico.cern.ch/category/72/), April 2017 (Machine Learning):
 
   - [Machine Learning (Lecture 1)](https://indico.cern.ch/event/619370/) --- [Michael Kagan](https://www.linkedin.com/in/michael-kagan-06292616/) (SLAC)
