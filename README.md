@@ -123,6 +123,9 @@ Listing of useful (mostly) public learning resources for machine learning applic
 
  - M. Frate, K. Cranmer, S. Kalia, A. Vandenberg-Rodes, and D. Whiteson, “[Modeling Smooth Backgrounds and Generic Localized Signals with Gaussian Processes](https://inspirehep.net/record/1624168),” arXiv:1709.05681 [physics.data-an]. (September 17, 2017)
 
+ - E. M. Metodiev, B. Nachman, and J. Thaler, “[Classification without labels: Learning
+from mixed samples in high energy physics](https://inspirehep.net/record/1615464),” arXiv:1708.02949 [hep-ph]. (August 9, 2017)
+
 - J. Bendavid, "[Efficient Monte Carlo Integration Using Boosted Decision Trees and Generative Deep Neural Networks](https://inspirehep.net/record/1608392)," arXiv:1707.00028 [hep-ph]. (June 30, 2017)
 
 - T. Cohen, M. Freytsis, and B. Ostdiek, "[(Machine) Learning to Do More with Less](https://inspirehep.net/record/1608029)," arXiv:1706.09451 [hep-ph]. (June 28, 2017)
