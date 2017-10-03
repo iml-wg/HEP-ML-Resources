@@ -41,6 +41,8 @@ Listing of useful (mostly) public learning resources for machine learning applic
 
 ### Tutorials
 
+- [TMVA Tutorial](https://indico.cern.ch/event/595059/contributions/2522191/), by [Lorenzo Moneta](https://phonebook.cern.ch/phonebook/#personDetails/?id=415998)
+
 - [Scikit-learn Tutorial](https://indico.cern.ch/event/595059/contributions/2522192/), by [Gilles Louppe](https://glouppe.github.io/) [![nbviewer](https://img.shields.io/badge/view%20on-nbviewer-brightgreen.svg)](https://nbviewer.jupyter.org/github/glouppe/tutorials-iml2017/tree/master/)
 
 - [Keras and TMVA interfaces Tutorial](https://indico.cern.ch/event/595059/contributions/2522193/), by [Stefan Wunsch](https://www.ims.kit.edu/14_117.php)
