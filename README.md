@@ -96,7 +96,7 @@ Listing of useful (mostly) public learning resources for machine learning applic
 
 - [scikit-learn](http://scikit-learn.org/stable/): General machine learning package
 
-- [TMVA](http://tmva.sourceforge.net/): ROOT's builtin machine learning package
+- [TMVA](https://root.cern.ch/tmva): ROOT's builtin machine learning package
 
 #### High level deep learning libraries/framework APIs
 
