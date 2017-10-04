@@ -117,7 +117,7 @@ Listing of useful (mostly) public learning resources for machine learning applic
 
 - [ttree2hdf5](https://github.com/dguest/ttree2hdf5): Mimimalist ROOT to HDF5 converter
 
-- [hepml](https://github.com/arogozhnikov/hep_ml): Python algorithms and tools for HEP ML use cases
+- [hep_ml](https://github.com/arogozhnikov/hep_ml): Python algorithms and tools for HEP ML use cases
 
 <!-- ## Notebooks - [Vince Croft RooFit Notebooks](https://www.nikhef.nl/~vcroft/notebooks.html) -->
 
