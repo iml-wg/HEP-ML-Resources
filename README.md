@@ -98,6 +98,8 @@ Listing of useful (mostly) public learning resources for machine learning applic
 
 - [TMVA](https://root.cern.ch/tmva): ROOT's builtin machine learning package
 
+  - [TMVA-branch-adder](https://github.com/pseyfert/tmva-branch-adder): wrapper to add TMVA response to TTree without boiler plate code
+
 #### High level deep learning libraries/framework APIs
 
 - [Keras](https://keras.io/)
