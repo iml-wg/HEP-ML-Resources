@@ -39,6 +39,9 @@ Listing of useful (mostly) public learning resources for machine learning applic
 
 - [CERN Data Science Seminars](https://indico.cern.ch/category/9320/)
 
+- [Inter-Experimental LHC Machine Learning Working Group](https://iml.web.cern.ch/) Guest Seminars:
+  - [Open challenges for improving Generative Adversarial Networks (GANs)](https://indico.cern.ch/event/673989/), by [Ian Goodfellow](http://www.iangoodfellow.com/) (October 27, 2017)
+
 ### Tutorials
 
 - [Scikit-learn Tutorial](https://indico.cern.ch/event/595059/contributions/2522192/), by [Gilles Louppe](https://glouppe.github.io/) [![nbviewer](https://img.shields.io/badge/view%20on-nbviewer-brightgreen.svg)](https://nbviewer.jupyter.org/github/glouppe/tutorials-iml2017/tree/master/)
