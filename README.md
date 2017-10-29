@@ -189,6 +189,8 @@ from mixed samples in high energy physics](https://inspirehep.net/record/1615464
 
 ### Upcoming
 
+- [Deep Learning for Physical Sciences at NIPS](https://dl4physicalsciences.github.io/) (December 8, 2017)
+
 - [4th International Connecting The Dots Workshop (2018)](https://indico.cern.ch/event/658267/) (March 20-22, 2018)
 
 ### Past
