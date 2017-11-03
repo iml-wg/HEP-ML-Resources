@@ -25,6 +25,10 @@ Listing of useful (mostly) public learning resources for machine learning applic
 
 ### Lectures
 
+- [Introduction to GANs](https://indico.cern.ch/event/655447/contributions/2742176/), by [Luke de Oliveira](https://ldo.io/) (November 3, 2017)
+
+- [Frontiers with GANs](https://indico.cern.ch/event/655447/contributions/2742180/), by [Michela Paganini](http://mickypaganini.github.io) (November 3, 2017)
+
 - [Nikhef Colloquium: "Teaching machines to discover particles"](https://indico.nikhef.nl/event/878/), by [Gilles Louppe](https://glouppe.github.io/) (September 29, 2017)
 
 - [CERN Academic Training Lecture Regular Programme](https://indico.cern.ch/category/72/), April 2017 (Machine Learning):
