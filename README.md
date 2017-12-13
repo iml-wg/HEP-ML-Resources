@@ -82,6 +82,7 @@ Listing of useful (mostly) public learning resources for machine learning applic
 ### Courses
 
 - [Applications of Deep Learning to High Energy Physics](https://wiki.uta.edu/display/~afarbin/Physics+4%285%29391-002+-+Applications+of+Deep+Learning+to+High+Energy+Physics), [Amir Farbin](http://www.uta.edu/physics/pages/faculty/profiles/farbin/index.html) (Spring, 2017 - University of Texas at Arlington)
+   - Associated GitHub repository: [DSatHEP-Tutorial](https://github.com/UTA-HEP-Computing/DSatHEP-Tutorial)
 
 - [Tensorflow for Deep Learning Research](https://web.stanford.edu/class/cs20si/syllabus.html), (Spring, 2017 - Stanford Univeristy)
 
