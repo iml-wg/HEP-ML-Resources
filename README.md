@@ -125,7 +125,9 @@ Listing of useful (mostly) public learning resources for machine learning applic
 
 - [root_numpy](https://github.com/scikit-hep/root_numpy): The interface between ROOT and numpy
 
-- [ttree2hdf5](https://github.com/dguest/ttree2hdf5): Mimimalist ROOT to HDF5 converter
+- [ttree2hdf5](https://github.com/dguest/ttree2hdf5): Mimimalist ROOT to HDF5 converter (written in C++)
+
+- [uproot](https://github.com/scikit-hep/uproot): Mimimalist ROOT to numpy converter (no dependency on ROOT)
 
 - [hep_ml](https://github.com/arogozhnikov/hep_ml): Python algorithms and tools for HEP ML use cases
 
