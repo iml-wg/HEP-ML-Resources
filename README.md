@@ -118,6 +118,7 @@ Listing of useful (mostly) public learning resources for machine learning applic
 - [Theano](http://deeplearning.net/software/theano/)
 - [PyTorch](http://pytorch.org/)
 - [Caffe2](https://caffe2.ai/)
+- [List of Conversion Tools For Saved Networks](https://github.com/ysh329/deep-learning-model-convertor)
 
 #### HEP to ML bridge tools
 
