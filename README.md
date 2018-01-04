@@ -140,9 +140,29 @@ Listing of useful (mostly) public learning resources for machine learning applic
 
 > A `.bib` file for all papers listed is [available in the `tex` directory](https://github.com/iml-wg/HEP-ML-Resources/blob/master/tex/HEPML.bib).
 
- - M. Frate, K. Cranmer, S. Kalia, A. Vandenberg-Rodes, and D. Whiteson, “[Modeling Smooth Backgrounds and Generic Localized Signals with Gaussian Processes](https://inspirehep.net/record/1624168),” arXiv:1709.05681 [physics.data-an]. (September 17, 2017)
+- V. Estrade, C. Germain, I. Guyon and D. Rousseau, [Adversarial learning to eliminate systematic errors: a case study in High Energy Physics](https://dl4physicalsciences.github.io/files/nips_dlps_2017_1.pdf), Proceedings of the Deep Learning for Physical Sciences Workshop at NIPS (2017). (December 8, 2017)
 
- - E. M. Metodiev, B. Nachman, and J. Thaler, “[Classification without labels: Learning
+- D. Weitekamp III, T. Nguyen, D. Anderson, R. Castello, M.Pierini, M. Spiropulu and J. Vlimant, [Deep topology classifiers for a more efficient trigger selection at the LHC](https://dl4physicalsciences.github.io/files/nips_dlps_2017_3.pdf), Proceedings of the Deep Learning for Physical Sciences Workshop at NIPS (2017). (December 8, 2017)
+
+- L. Hertel, L. Li, P. Baldi and J. Bian, [Convolutional Neural Networks for Electron Neutrino and Electron Shower Energy Reconstruction in the NOvA Detectors](https://dl4physicalsciences.github.io/files/nips_dlps_2017_7.pdf), Proceedings of the Deep Learning for Physical Sciences Workshop at NIPS (2017). (December 8, 2017)
+
+- M. Stoye, J. Kieseler, M. Verzetti, H. Qu, L. Gouskos, A. Stakia and the CMS Collaboration, [DeepJet: Generic physics object based jet multiclass classification for LHC experiments](https://dl4physicalsciences.github.io/files/nips_dlps_2017_10.pdf), Proceedings of the Deep Learning for Physical Sciences Workshop at NIPS (2017). (December 8, 2017)
+
+- B. Hooberman, A. Farbin, G. Khattak, V. Pacela, M. Pierini, J. Vlimant, M. Spiropulu, W. Wei, M. Zhang and S. Vallecorsa, [Calorimetry with Deep Learning: Particle Classification, Energy Regression, and Simulation for High-Energy Physics](https://dl4physicalsciences.github.io/files/nips_dlps_2017_15.pdf), Proceedings of the Deep Learning for Physical Sciences Workshop at NIPS (2017). (December 8, 2017)
+
+- M. Paganini, L. de Oliveira and B. Nachman, [Survey of Machine Learning Techniques for High Energy Electromagnetic Shower Classification](https://dl4physicalsciences.github.io/files/nips_dlps_2017_24.pdf), Proceedings of the Deep Learning for Physical Sciences Workshop at NIPS (2017). (December 8, 2017)
+
+- L. de Oliveira, M. Paganini, and B. Nachman, [Tips and Tricks for Training GANs with Physics Constraints](https://dl4physicalsciences.github.io/files/nips_dlps_2017_26.pdf), Proceedings of the Deep Learning for Physical Sciences Workshop at NIPS (2017). (December 8, 2017)
+
+- S. Farrell, P. Calafiura, M. Mudigonda, Prabhat, D. Anderson, J. Bendavid, M. Spiropoulou, J. Vlimant, S. Zheng, G. Cerati, L. Gray, J. Kowalkowski, P. Spentzouris, A. Tsaris and D. Zurawski, [Particle Track Reconstruction with Deep Learning](https://dl4physicalsciences.github.io/files/nips_dlps_2017_28.pdf), Proceedings of the Deep Learning for Physical Sciences Workshop at NIPS (2017). (December 8, 2017)
+
+- I. Henrion, K. Cranmer, J. Bruna, K. Cho, J. Brehmer, G. Louppe and G. Rochette, [Neural Message Passing for Jet Physics](https://dl4physicalsciences.github.io/files/nips_dlps_2017_29.pdf), Proceedings of the Deep Learning for Physical Sciences Workshop at NIPS (2017). (December 8, 2017)
+
+- T. Cheng, "[Recursive Neural Networks in Quark/Gluon Tagging](https://inspirehep.net/record/1634876)," arXiv:1711.02633 [hep-ph]. (November 7, 2017)
+
+- M. Frate, K. Cranmer, S. Kalia, A. Vandenberg-Rodes, and D. Whiteson, “[Modeling Smooth Backgrounds and Generic Localized Signals with Gaussian Processes](https://inspirehep.net/record/1624168),” arXiv:1709.05681 [physics.data-an]. (September 17, 2017)
+
+- E. M. Metodiev, B. Nachman, and J. Thaler, “[Classification without labels: Learning
 from mixed samples in high energy physics](https://inspirehep.net/record/1615464),” arXiv:1708.02949 [hep-ph]. (August 9, 2017)
 
 - J. Bendavid, "[Efficient Monte Carlo Integration Using Boosted Decision Trees and Generative Deep Neural Networks](https://inspirehep.net/record/1608392)," arXiv:1707.00028 [hep-ph]. (June 30, 2017)
@@ -199,12 +219,12 @@ from mixed samples in high energy physics](https://inspirehep.net/record/1615464
 
 ### Upcoming
 
-- [Deep Learning for Physical Sciences at NIPS](https://dl4physicalsciences.github.io/) (December 8, 2017)
-
 - [4th International Connecting The Dots Workshop (2018)](https://indico.cern.ch/event/658267/) (March 20-22, 2018)
 
 ### Past
 
+- [Machine Learning for Jet Physics](https://indico.physics.lbl.gov/indico/event/546/) (December 11-13, 2017)
+- [Deep Learning for Physical Sciences at NIPS](https://dl4physicalsciences.github.io/) (December 8, 2017)
 - [18th International Workshop on Advanced Computing and Analysis Techniques in Physics Research (ACAT 2017)](https://indico.cern.ch/event/567550/) (August 21-25, 2017)
 - [Hammers & Nails - Machine Learning & HEP](https://www.weizmann.ac.il/conferences/SRitp/Summer2017/) (July 19-28, 2017)
 - [CMS Machine Learning Workshop (2017)](https://indico.cern.ch/event/646801) (July 5-6, 2017) ![CMS only](https://img.shields.io/badge/restricted-CMS-red.svg)
