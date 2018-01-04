@@ -140,9 +140,11 @@ Listing of useful (mostly) public learning resources for machine learning applic
 
 > A `.bib` file for all papers listed is [available in the `tex` directory](https://github.com/iml-wg/HEP-ML-Resources/blob/master/tex/HEPML.bib).
 
- - M. Frate, K. Cranmer, S. Kalia, A. Vandenberg-Rodes, and D. Whiteson, “[Modeling Smooth Backgrounds and Generic Localized Signals with Gaussian Processes](https://inspirehep.net/record/1624168),” arXiv:1709.05681 [physics.data-an]. (September 17, 2017)
+- T. Cheng, "[Recursive Neural Networks in Quark/Gluon Tagging](https://inspirehep.net/record/1634876)," arXiv:1711.02633 [hep-ph]. (November 7, 2017)
 
- - E. M. Metodiev, B. Nachman, and J. Thaler, “[Classification without labels: Learning
+- M. Frate, K. Cranmer, S. Kalia, A. Vandenberg-Rodes, and D. Whiteson, “[Modeling Smooth Backgrounds and Generic Localized Signals with Gaussian Processes](https://inspirehep.net/record/1624168),” arXiv:1709.05681 [physics.data-an]. (September 17, 2017)
+
+- E. M. Metodiev, B. Nachman, and J. Thaler, “[Classification without labels: Learning
 from mixed samples in high energy physics](https://inspirehep.net/record/1615464),” arXiv:1708.02949 [hep-ph]. (August 9, 2017)
 
 - J. Bendavid, "[Efficient Monte Carlo Integration Using Boosted Decision Trees and Generative Deep Neural Networks](https://inspirehep.net/record/1608392)," arXiv:1707.00028 [hep-ph]. (June 30, 2017)
