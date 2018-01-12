@@ -142,6 +142,10 @@ Listing of useful (mostly) public learning resources for machine learning applic
 
 > A `.bib` file for all papers listed is [available in the `tex` directory](https://github.com/iml-wg/HEP-ML-Resources/blob/master/tex/HEPML.bib).
 
+- CMS Collaboration, A. M. Sirunyan _et al._, "[Identification of heavy-flavour jets with
+the CMS detector in pp collisions at 13 TeV](https://inspirehep.net/record/1644362)," arXiv:1712.07158
+[physics.ins-det]. (December 19, 2017)
+
 - V. Estrade, C. Germain, I. Guyon and D. Rousseau, [Adversarial learning to eliminate systematic errors: a case study in High Energy Physics](https://dl4physicalsciences.github.io/files/nips_dlps_2017_1.pdf), Proceedings of the Deep Learning for Physical Sciences Workshop at NIPS (2017). (December 8, 2017)
 
 - D. Weitekamp III, T. Nguyen, D. Anderson, R. Castello, M.Pierini, M. Spiropulu and J. Vlimant, [Deep topology classifiers for a more efficient trigger selection at the LHC](https://dl4physicalsciences.github.io/files/nips_dlps_2017_3.pdf), Proceedings of the Deep Learning for Physical Sciences Workshop at NIPS (2017). (December 8, 2017)
@@ -186,7 +190,7 @@ from mixed samples in high energy physics](https://inspirehep.net/record/1615464
 
 - P. T. Komiske, E. M. Metodiev, and M. D. Schwartz, "[Deep learning in color: towards automated quark/gluon jet discrimination](https://inspirehep.net/record/1501944)," JHEP 01 (2017) 110, arXiv:1612.01551 [hep-ph]. (December 5, 2016)
 
-- MicroBooNE Collaboration, R. Acciarri et al., "[Convolutional Neural Networks Applied to Neutrino Events in a Liquid Argon Time Projection Chamber](https://inspirehep.net/record/1498561)," JINST 12 (2017) no. 03, P03011, arXiv:1611.05531 [physics.ins-det]. (November 16, 2016)
+- MicroBooNE Collaboration, R. Acciarri _et al._, "[Convolutional Neural Networks Applied to Neutrino Events in a Liquid Argon Time Projection Chamber](https://inspirehep.net/record/1498561)," JINST 12 (2017) no. 03, P03011, arXiv:1611.05531 [physics.ins-det]. (November 16, 2016)
 
 - M. Kagan, L. d. Oliveira, L. Mackey, B. Nachman, and A. Schwartzman, "[Boosted Jet Tagging with Jet-Images and Deep Neural Networks](http://inspirehep.net/record/1504297/)," EPJ Web Conf. 127 (2016) 00009\. (November 15, 2016)
 
