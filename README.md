@@ -54,6 +54,8 @@ Listing of useful (mostly) public learning resources for machine learning applic
 
 - [Keras and TMVA interfaces Tutorial](https://indico.cern.ch/event/595059/contributions/2522193/), by [Stefan Wunsch](https://www.ims.kit.edu/14_117.php)
 
+- [Boosted Decision Tree Tutorial (using XGBoost)](https://github.com/k-woodruff/bdt-tutorial), by [Katherine Woodruff](https://tele.fnal.gov/cgi-bin/telephone.script?type=name_last&accuracy=contains&string=WOODRUFF) [![Binder](https://mybinder.org/badge.svg)](https://mybinder.org/v2/gh/k-woodruff/bdt-tutorial/master) [![nbviewer](https://img.shields.io/badge/view%20on-nbviewer-brightgreen.svg)](http://nbviewer.jupyter.org/github/k-woodruff/bdt-tutorial/tree/master/)
+
 - [Introduction to Deep Learning with Keras Tutorial](https://gist.github.com/lukedeo/0654e7310432d6d435126c556b863907), by [Luke de Oliveira](https://ldo.io/)
 
 - [Introduction to Deep Learning with Keras Tutorial](https://indico.cern.ch/event/487416/contributions/2174907/) - [2nd Developers@CERN Forum](https://indico.cern.ch/event/487416/timetable/), by [Michela Paganini](http://mickypaganini.github.io)
