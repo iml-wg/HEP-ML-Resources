@@ -1,4 +1,4 @@
-[![license](https://img.shields.io/github/license/iml-wg/HEP-ML-Resources.svg)](https://github.com/iml-wg/HEP-ML-Resources/blob/master/LICENSE)
+[![license](https://img.shields.io/github/license/iml-wg/HEP-ML-Resources.svg)](https://opensource.org/licenses/MIT)
 
 # HEPML Resources
 
@@ -48,7 +48,7 @@ Listing of useful (mostly) public learning resources for machine learning applic
 
 ### Tutorials
 
-- [Scikit-learn Tutorial](https://indico.cern.ch/event/595059/contributions/2522192/), by [Gilles Louppe](https://glouppe.github.io/) [![nbviewer](https://img.shields.io/badge/view%20on-nbviewer-brightgreen.svg)](https://nbviewer.jupyter.org/github/glouppe/tutorials-iml2017/tree/master/)
+- [Scikit-learn Tutorial](https://indico.cern.ch/event/595059/contributions/2522192/), by [Gilles Louppe](https://glouppe.github.io/) [![Binder](https://mybinder.org/badge.svg)](https://mybinder.org/v2/gh/glouppe/tutorials-iml2017/master) [![nbviewer](https://img.shields.io/badge/view%20on-nbviewer-brightgreen.svg)](https://nbviewer.jupyter.org/github/glouppe/tutorials-iml2017/tree/master/)
 
 - [TMVA Tutorial](https://indico.cern.ch/event/595059/contributions/2522191/), by [Lorenzo Moneta](https://phonebook.cern.ch/phonebook/#personDetails/?id=415998)
 
