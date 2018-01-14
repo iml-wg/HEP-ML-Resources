@@ -1,6 +1,7 @@
-[![license](https://img.shields.io/github/license/iml-wg/HEP-ML-Resources.svg)](https://opensource.org/licenses/MIT)
-
 # HEPML Resources
+
+[![DOI](https://zenodo.org/badge/89476450.svg)](https://zenodo.org/badge/latestdoi/89476450)
+[![license](https://img.shields.io/github/license/iml-wg/HEP-ML-Resources.svg)](https://opensource.org/licenses/MIT)
 
 Listing of useful (mostly) public learning resources for machine learning applications in high energy physics (HEPML). Listings will be in reverse chronological order (like a CV).
 
