@@ -226,6 +226,7 @@ from mixed samples in high energy physics](https://inspirehep.net/record/1615464
 
 ### Upcoming
 
+- [2nd IML Machine Learning Workshop (2018)](https://indico.cern.ch/event/668017/) (April 9-12, 2018)
 - [4th International Connecting The Dots Workshop (2018)](https://indico.cern.ch/event/658267/) (March 20-22, 2018)
 
 ### Past
