@@ -66,7 +66,8 @@ Listing of useful (mostly) public learning resources for machine learning applic
 #### HEP-ML:
 
 ##### Upcoming:
-- TBA
+
+- [4th Machine Learning in High Energy Physics Summer School 2018](https://indico.cern.ch/event/687473/) (August 6-12, 2018)
 
 ##### Past:
 - [3rd Machine Learning in High Energy Physics Summer School 2017](https://indico.cern.ch/event/613571/) (July 17-23, 2017)
