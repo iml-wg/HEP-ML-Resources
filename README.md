@@ -20,6 +20,7 @@ Listing of useful (mostly) public learning resources for machine learning applic
 - [Papers](#papers)
 - [Workshops](#workshops)
 - [Tweets](#tweets)
+- [People](#people)
 - [Contributing](#contributing)
 
 ## Introductory Material ![Introductory](https://img.shields.io/badge/subject-introductory-blue.svg)
@@ -252,6 +253,11 @@ from mixed samples in high energy physics](https://inspirehep.net/record/1615464
 ## Tweets
 
 - [#HEPML collection of tweets](https://twitter.com/HEPfeickert/timelines/806382943342096384)
+
+## People
+
+- [HEPML directory](http://mickypaganini.github.io/HEPML_directory): Opt-in list of people working at the intersection of Machine Learning and High Energy Physics
+   - Add yourself through the [Google form](https://t.co/jprokVZEiK)
 
 ## Contributing
 
