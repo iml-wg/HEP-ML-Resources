@@ -86,6 +86,8 @@ Listing of useful (mostly) public learning resources for machine learning applic
 
 ### Courses
 
+- [Advanced Machine Learning](http://www.montefiore.ulg.ac.be/~geurts/Cours/AML/aml2017_2018.html), Pierre Geurts, [Gilles Louppe](https://glouppe.github.io/), and Louis Wehenkel (Spring, 2018 - Université de Liège, Institut Montefiore)
+
 - [Applications of Deep Learning to High Energy Physics](https://wiki.uta.edu/display/~afarbin/Physics+4%285%29391-002+-+Applications+of+Deep+Learning+to+High+Energy+Physics), [Amir Farbin](http://www.uta.edu/physics/pages/faculty/profiles/farbin/index.html) (Spring, 2017 - University of Texas at Arlington)
    - Associated GitHub repository: [DSatHEP-Tutorial](https://github.com/UTA-HEP-Computing/DSatHEP-Tutorial)
 
