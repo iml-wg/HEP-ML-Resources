@@ -39,6 +39,8 @@ Listing of useful (mostly) public learning resources for machine learning applic
 
 ### Tutorials
 
+- [Intro Tutorial on GANs](https://indico.fnal.gov/event/16720/), by [Michela Paganini](http://mickypaganini.github.io) [![Binder](https://mybinder.org/badge.svg)](https://mybinder.org/v2/gh/mickypaganini/gan_tutorial/master)
+
 - [Scikit-learn Tutorial](https://indico.cern.ch/event/595059/contributions/2522192/), by [Gilles Louppe](https://glouppe.github.io/) [![nbviewer](https://img.shields.io/badge/view%20on-nbviewer-brightgreen.svg)](https://nbviewer.jupyter.org/github/glouppe/tutorials-iml2017/tree/master/)
 
 - [Keras and TMVA interfaces Tutorial](https://indico.cern.ch/event/595059/contributions/2522193/), by [Stefan Wunsch](https://www.ims.kit.edu/14_117.php)
@@ -56,6 +58,12 @@ Listing of useful (mostly) public learning resources for machine learning applic
 - [2nd Machine Learning in High Energy Physics Summer School 2016](https://indico.cern.ch/event/497368/overview) (June 20-26, 2016)
 - [1st Machine Learning in High Energy Physics Summer School 2015](https://www.hse.ru/mlhep2015) (August 27-30, 2015)
 #### Deep Learning:
+##### Upcoming:
+- [Machine Learning Summer School 2018, Buenos Aires, Argentina](http://mlss2018.net.ar/) (June 18-20, 2018)
+- [Machine Learning Summer School 2018, Madrid, Spain](http://mlss.ii.uam.es/mlss2018/index.html) (August 27 - September 7, 2018)
+- [Deep Learning and Reinforcement Learning Summer School, Toronto, Canada](https://dlrlsummerschool.ca/) (July 25 - August 3, 2018)
+- [PAISS: Artificial Intelligence Summer School, Grenoble, France](https://project.inria.fr/paiss/) (July 2-6, 2018)
+
 ##### Past:
 - [Deep Learning Summer School 2016](https://sites.google.com/site/deeplearningsummerschool2016/) (August 1-7, 2016)
 
