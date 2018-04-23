@@ -1,7 +1,6 @@
 # HEPML Resources
 
-[![DOI](https://zenodo.org/badge/89476450.svg)](https://zenodo.org/badge/latestdoi/89476450)
-[![license](https://img.shields.io/github/license/iml-wg/HEP-ML-Resources.svg)](https://opensource.org/licenses/MIT)
+[![DOI](https://zenodo.org/badge/89476450.svg)](https://zenodo.org/badge/latestdoi/89476450) [![license](https://img.shields.io/github/license/iml-wg/HEP-ML-Resources.svg)](https://opensource.org/licenses/MIT)
 
 Listing of useful (mostly) public learning resources for machine learning applications in high energy physics (HEPML). Listings will be in reverse chronological order (like a CV).
 
@@ -10,13 +9,16 @@ Listing of useful (mostly) public learning resources for machine learning applic
 ## Table of contents
 
 - [Introductory Material](#introductory-material)
-   - [Lectures](#lectures)
-   - [Seminar Series](#seminar-series)
-   - [Tutorials](#tutorials)
-   - [Schools](#schools)
-   - [Courses](#courses)
-   - [Journals](#journals)
+
+  - [Lectures](#lectures)
+  - [Seminar Series](#seminar-series)
+  - [Tutorials](#tutorials)
+  - [Schools](#schools)
+  - [Courses](#courses)
+  - [Journals](#journals)
+
 - [Software](#software)
+
 - [Papers](#papers)
 - [Workshops](#workshops)
 - [Tweets](#tweets)
@@ -46,6 +48,7 @@ Listing of useful (mostly) public learning resources for machine learning applic
 - [CERN Data Science Seminars](https://indico.cern.ch/category/9320/)
 
 - [Inter-Experimental LHC Machine Learning Working Group](https://iml.web.cern.ch/) Guest Seminars:
+
   - [Open challenges for improving Generative Adversarial Networks (GANs)](https://indico.cern.ch/event/673989/), by [Ian Goodfellow](http://www.iangoodfellow.com/) (October 27, 2017)
 
 ### Tutorials
@@ -73,22 +76,32 @@ Listing of useful (mostly) public learning resources for machine learning applic
 - [4th Machine Learning in High Energy Physics Summer School 2018](https://indico.cern.ch/event/687473/) (August 6-12, 2018)
 
 ##### Past:
+
 - [3rd Machine Learning in High Energy Physics Summer School 2017](https://indico.cern.ch/event/613571/) (July 17-23, 2017)
-   - Associated [Yandex School of Data Analysis](https://github.com/yandexdataschool) repo: [mlhep2017](https://github.com/yandexdataschool/mlhep2017)
+
+  - Associated [Yandex School of Data Analysis](https://github.com/yandexdataschool) repo: [mlhep2017](https://github.com/yandexdataschool/mlhep2017)
+
 - [1st Computational and Data Science School for High Energy Physics](http://codas-hep.org/) (July 10-13, 2017)
+
 - [2nd Machine Learning in High Energy Physics Summer School 2016](https://indico.cern.ch/event/497368/overview) (June 20-26, 2016)
-   - Associated [Yandex School of Data Analysis](https://github.com/yandexdataschool) repo: [mlhep2016](https://github.com/yandexdataschool/mlhep2016)
+
+  - Associated [Yandex School of Data Analysis](https://github.com/yandexdataschool) repo: [mlhep2016](https://github.com/yandexdataschool/mlhep2016)
+
 - [1st Machine Learning in High Energy Physics Summer School 2015](https://www.hse.ru/mlhep2015) (August 27-30, 2015)
-   - Associated [Yandex School of Data Analysis](https://github.com/yandexdataschool) repo: [mlhep2015](https://github.com/yandexdataschool/mlhep2015)
+
+  - Associated [Yandex School of Data Analysis](https://github.com/yandexdataschool) repo: [mlhep2015](https://github.com/yandexdataschool/mlhep2015)
 
 #### Deep Learning:
+
 ##### Upcoming:
+
 - [Machine Learning Summer School 2018, Buenos Aires, Argentina](http://mlss2018.net.ar/) (June 18-20, 2018)
 - [Machine Learning Summer School 2018, Madrid, Spain](http://mlss.ii.uam.es/mlss2018/index.html) (August 27 - September 7, 2018)
 - [Deep Learning and Reinforcement Learning Summer School, Toronto, Canada](https://dlrlsummerschool.ca/) (July 25 - August 3, 2018)
 - [PAISS: Artificial Intelligence Summer School, Grenoble, France](https://project.inria.fr/paiss/) (July 2-6, 2018)
 
 ##### Past:
+
 - [Deep Learning Summer School 2016](https://sites.google.com/site/deeplearningsummerschool2016/) (August 1-7, 2016)
 
 ### Courses
@@ -96,11 +109,13 @@ Listing of useful (mostly) public learning resources for machine learning applic
 - [Advanced Machine Learning](http://www.montefiore.ulg.ac.be/~geurts/Cours/AML/aml2017_2018.html), Pierre Geurts, [Gilles Louppe](https://glouppe.github.io/), and Louis Wehenkel (Spring, 2018 - Université de Liège, Institut Montefiore)
 
 - [Applications of Deep Learning to High Energy Physics](https://wiki.uta.edu/display/~afarbin/Physics+4%285%29391-002+-+Applications+of+Deep+Learning+to+High+Energy+Physics), [Amir Farbin](http://www.uta.edu/physics/pages/faculty/profiles/farbin/index.html) (Spring, 2017 - University of Texas at Arlington)
-   - Associated GitHub repository: [DSatHEP-Tutorial](https://github.com/UTA-HEP-Computing/DSatHEP-Tutorial)
+
+  - Associated GitHub repository: [DSatHEP-Tutorial](https://github.com/UTA-HEP-Computing/DSatHEP-Tutorial)
 
 - [Tensorflow for Deep Learning Research](https://web.stanford.edu/class/cs20si/syllabus.html), (Spring, 2017 - Stanford Univeristy)
 
 - Introduction to Machine Learning and Convolutional Neural Networks for Visual Recognition:
+
   - [Spring, 2017](https://www.youtube.com/watch?v=vT1JzLTH4G4&list=PL3FW7Lu3i5JvHM8ljYj-zLfQRF3EO8sYv) - Stanford University, [Fei-Fei Li](http://vision.stanford.edu/feifeili/), [Justin Johnson](http://cs.stanford.edu/people/jcjohns/), [Serena Yeung](http://ai.stanford.edu/~syyeung/)
   - [Winter, 2016](https://www.youtube.com/watch?v=NfnWJUyUJYU) - Stanford University, [Andrej Karpathy](https://cs.stanford.edu/people/karpathy/), [Fei-Fei Li](http://vision.stanford.edu/feifeili/), [Justin Johnson](http://cs.stanford.edu/people/jcjohns/)
 
@@ -110,7 +125,7 @@ Listing of useful (mostly) public learning resources for machine learning applic
 
 ## Software
 
-#### Common software tools and environments used in HEP for ML
+### Common software tools and environments used in HEP for ML
 
 - The [Conda package and environment manager](https://conda.io/docs/) and [Anaconda](https://www.continuum.io/anaconda-overview) Python library collection
 
@@ -122,11 +137,11 @@ Listing of useful (mostly) public learning resources for machine learning applic
 
   - [TMVA-branch-adder](https://github.com/pseyfert/tmva-branch-adder): wrapper to add TMVA response to TTree without boiler plate code
 
-#### High level deep learning libraries/framework APIs
+### High level deep learning libraries/framework APIs
 
 - [Keras](https://keras.io/)
 
-#### Deep learning frameworks
+### Deep learning frameworks
 
 - [TensorFlow](https://www.tensorflow.org/)
 - [Theano](http://deeplearning.net/software/theano/)
@@ -134,7 +149,7 @@ Listing of useful (mostly) public learning resources for machine learning applic
 - [Caffe2](https://caffe2.ai/)
 - [List of Conversion Tools For Saved Networks](https://github.com/ysh329/deep-learning-model-convertor)
 
-#### HEP to ML bridge tools
+### HEP to ML bridge tools
 
 - [lwtnn](https://github.com/lwtnn/lwtnn): Tool to run Keras networks in C++ code
 
@@ -148,7 +163,7 @@ Listing of useful (mostly) public learning resources for machine learning applic
 
 - [ttree2hdf5](https://github.com/dguest/ttree2hdf5): Mimimalist ROOT to HDF5 converter (written in C++)
 
-- [hep_ml](https://github.com/arogozhnikov/hep_ml): Python algorithms and tools for HEP ML use cases
+- [hep_ml](https://github.com/arogozhnikov/hep_ml): Python algorithms and tools for HEP ML use cases 
 
 <!-- ## Notebooks - [Vince Croft RooFit Notebooks](https://www.nikhef.nl/~vcroft/notebooks.html) -->
 
@@ -156,9 +171,7 @@ Listing of useful (mostly) public learning resources for machine learning applic
 
 > A `.bib` file for all papers listed is [available in the `tex` directory](https://github.com/iml-wg/HEP-ML-Resources/blob/master/tex/HEPML.bib).
 
-- CMS Collaboration, A. M. Sirunyan _et al._, "[Identification of heavy-flavour jets with
-the CMS detector in pp collisions at 13 TeV](https://inspirehep.net/record/1644362)," arXiv:1712.07158
-[physics.ins-det]. (December 19, 2017)
+- CMS Collaboration, A. M. Sirunyan _et al._, "[Identification of heavy-flavour jets with the CMS detector in pp collisions at 13 TeV](https://inspirehep.net/record/1644362)," arXiv:1712.07158 [physics.ins-det]. (December 19, 2017)
 
 - V. Estrade, C. Germain, I. Guyon and D. Rousseau, [Adversarial learning to eliminate systematic errors: a case study in High Energy Physics](https://dl4physicalsciences.github.io/files/nips_dlps_2017_1.pdf), Proceedings of the Deep Learning for Physical Sciences Workshop at NIPS (2017). (December 8, 2017)
 
@@ -180,10 +193,11 @@ the CMS detector in pp collisions at 13 TeV](https://inspirehep.net/record/16443
 
 - T. Cheng, "[Recursive Neural Networks in Quark/Gluon Tagging](https://inspirehep.net/record/1634876)," arXiv:1711.02633 [hep-ph]. (November 7, 2017)
 
-- M. Frate, K. Cranmer, S. Kalia, A. Vandenberg-Rodes, and D. Whiteson, “[Modeling Smooth Backgrounds and Generic Localized Signals with Gaussian Processes](https://inspirehep.net/record/1624168),” arXiv:1709.05681 [physics.data-an]. (September 17, 2017)
+- S. Chang, T. Cohen, and B. Ostdiek, "[What is the Machine Learning?](https://inspirehep.net/record/1627883)," arXiv:1709.10106 [hep-ph]. (September 28, 2017)
 
-- E. M. Metodiev, B. Nachman, and J. Thaler, “[Classification without labels: Learning
-from mixed samples in high energy physics](https://inspirehep.net/record/1615464),” arXiv:1708.02949 [hep-ph]. (August 9, 2017)
+- M. Frate, K. Cranmer, S. Kalia, A. Vandenberg-Rodes, and D. Whiteson, "[Modeling Smooth Backgrounds and Generic Localized Signals with Gaussian Processes](https://inspirehep.net/record/1624168)," arXiv:1709.05681 [physics.data-an]. (September 17, 2017)
+
+- E. M. Metodiev, B. Nachman, and J. Thaler, "[Classification without labels: Learning from mixed samples in high energy physics](https://inspirehep.net/record/1615464)," arXiv:1708.02949 [hep-ph]. (August 9, 2017)
 
 - J. Bendavid, "[Efficient Monte Carlo Integration Using Boosted Decision Trees and Generative Deep Neural Networks](https://inspirehep.net/record/1608392)," arXiv:1707.00028 [hep-ph]. (June 30, 2017)
 
@@ -194,7 +208,8 @@ from mixed samples in high energy physics](https://inspirehep.net/record/1615464
 - C. Shimmin, P. Sadowski, P. Baldi, E. Weik, D. Whiteson, E. Goul, and A. Sgaard, "[Decorrelated Jet Substructure Tagging using Adversarial Neural Networks](https://inspirehep.net/record/1516914)," arXiv:1703.03507 [hep-ex]. (March 9, 2017)
 
 - G. Louppe, K. Cho, C. Becot, and K. Cranmer, "[QCD-Aware Recursive Neural Networks for Jet Physics](https://inspirehep.net/record/1511884)," arXiv:1702.00748 [hep-ph]. (February 2, 2017)
-   - Lecture: [QCD-Aware Neural Networks for Jet Physics](https://indico.cern.ch/event/640111/), by [Kyle Cranmer](http://theoryandpractice.org/)
+
+  - Lecture: [QCD-Aware Neural Networks for Jet Physics](https://indico.cern.ch/event/640111/), by [Kyle Cranmer](http://theoryandpractice.org/)
 
 - L. M. Dery, B. Nachman, F. Rubbo, and A. Schwartzman, "[Weakly Supervised Classification in High Energy Physics](https://inspirehep.net/record/1511880)," JHEP 05 (2017) 145, arXiv:1702.00414 [hep-ph]. (February 1, 2017)
 
@@ -211,17 +226,18 @@ from mixed samples in high energy physics](https://inspirehep.net/record/1615464
 - G. Bertone, M. P. Deisenroth, J. S. Kim, S. Liem, R. Ruiz de Austri, and M. Welling, "[Accelerating the BSM interpretation of LHC data with machine learning](https://inspirehep.net/record/1496641)," arXiv:1611.02704 [hep-ph]. (November 8, 2016)
 
 - G. Louppe, M. Kagan, and K. Cranmer, "[Learning to Pivot with Adversarial Networks](https://inspirehep.net/record/1495901)," arXiv:1611.01046 [stat.ME]. (November 3, 2016)
-    - Lecture: [(Machine) Learning to Pivot with Adversarial Networks](http://indico.iihe.ac.be/indico/conferenceDisplay.py?confId=1082), by [Gilles Louppe](https://glouppe.github.io/)
+
+  - Lecture: [(Machine) Learning to Pivot with Adversarial Networks](http://indico.iihe.ac.be/indico/conferenceDisplay.py?confId=1082), by [Gilles Louppe](https://glouppe.github.io/)
 
 - J. Barnard, E. N. Dawe, M. J. Dolan, and N. Rajcic, ["Parton Shower Uncertainties in Jet Substructure Analyses with Deep Neural Networks](https://inspirehep.net/record/1485081)," Phys. Rev. D95 (2017) no. 1, 014018, arXiv:1609.00607 [hep-ph] (September 2, 2016)
 
-- A. Rogozhnikov, “[Reweighting with Boosted Decision Trees](https://inspirehep.net/record/1482753),” J. Phys. Conf. Ser. 762 (2016) no. 1, 012036, arXiv:1608.05806 [physics.data-an]. (August 20, 2016)
+- A. Rogozhnikov, "[Reweighting with Boosted Decision Trees](https://inspirehep.net/record/1482753)," J. Phys. Conf. Ser. 762 (2016) no. 1, 012036, arXiv:1608.05806 [physics.data-an]. (August 20, 2016)
 
 - S. Caron, J.S. Kim, K. Rolbiecki, R. Ruiz de Austri, B. Stienen "[The BSM-AI project: SUSY-AI -- Generalizing LHC limits on supersymmetry with machine learning](https://inspirehep.net/record/1456927)", EPJ C (2017) 77:257, arXiv:1605.02797 [hep-ph]. (May 9, 2016)
 
 - A. Aurisano, A. Radovic, D. Rocco, A. Himmel, M. D. Messier, E. Niner, G. Pawloski, F. Psihas, A. Sousa, and P. Vahle, "[A Convolutional Neural Network Neutrino Event Classifier](https://inspirehep.net/record/1444342)," JINST 11 (2016) no. 09, P09001, arXiv:1604.01444 [hep-ex]. (April 5, 2016)
 
-- P. Baldi, K. Cranmer, T. Faucett, P. Sadowski, and D. Whiteson, “[Parameterized neural networks for high-energy physics](https://inspirehep.net/record/1418479),” Eur. Phys. J. C76 (2016) no. 5, 235, arXiv:1601.07913 [hep-ex]. (January 28, 2016)
+- P. Baldi, K. Cranmer, T. Faucett, P. Sadowski, and D. Whiteson, "[Parameterized neural networks for high-energy physics](https://inspirehep.net/record/1418479)," Eur. Phys. J. C76 (2016) no. 5, 235, arXiv:1601.07913 [hep-ex]. (January 28, 2016)
 
 - L. de Oliveira, M. Kagan, L. Mackey, B. Nachman, and A. Schwartzman, "[Jet-images deep learning edition](https://inspirehep.net/record/1405106)," JHEP 07 (2016) 069, arXiv:1511.05190 [hep-ph]. (November 16, 2015)
 
@@ -233,7 +249,7 @@ from mixed samples in high energy physics](https://inspirehep.net/record/1615464
 
 - V. Gligorov, M. Williams, "[Efficient, reliable and fast high-level triggering using a bonsai boosted decision tree](https://inspirehep.net/record/1193348)," arXiv:1210.6861 [physics]. (October 25, 2012)
 
-- B. H. Denby, “[Neural Networks and Cellular Automata in Experimental High-energy Physics](http://inspirehep.net/record/253511),” Comput. Phys. Commun. 49 (1988) 429–448. (September 20, 1987)
+- B. H. Denby, "[Neural Networks and Cellular Automata in Experimental High-energy Physics](http://inspirehep.net/record/253511)," Comput. Phys. Commun. 49 (1988) 429–448\. (September 20, 1987)
 
 ## Workshops
 
@@ -269,7 +285,8 @@ from mixed samples in high energy physics](https://inspirehep.net/record/1615464
 ## People
 
 - [HEPML directory](http://mickypaganini.github.io/HEPML_directory): Opt-in list of people working at the intersection of Machine Learning and High Energy Physics
-   - Add yourself through the [Google form](https://t.co/jprokVZEiK)
+
+  - Add yourself through the [Google form](https://t.co/jprokVZEiK)
 
 ## Contributing
 
