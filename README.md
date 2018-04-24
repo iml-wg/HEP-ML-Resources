@@ -122,11 +122,11 @@ Listing of useful (mostly) public learning resources for machine learning applic
 
   - [TMVA-branch-adder](https://github.com/pseyfert/tmva-branch-adder): wrapper to add TMVA response to TTree without boiler plate code
 
-#### High level deep learning libraries/framework APIs
+### High level deep learning libraries/framework APIs
 
 - [Keras](https://keras.io/)
 
-#### Deep learning frameworks
+### Deep learning frameworks
 
 - [TensorFlow](https://www.tensorflow.org/)
 - [Theano](http://deeplearning.net/software/theano/)
@@ -134,7 +134,7 @@ Listing of useful (mostly) public learning resources for machine learning applic
 - [Caffe2](https://caffe2.ai/)
 - [List of Conversion Tools For Saved Networks](https://github.com/ysh329/deep-learning-model-convertor)
 
-#### HEP to ML bridge tools
+### HEP to ML bridge tools
 
 - [lwtnn](https://github.com/lwtnn/lwtnn): Tool to run Keras networks in C++ code
 
@@ -179,6 +179,8 @@ the CMS detector in pp collisions at 13 TeV](https://inspirehep.net/record/16443
 - I. Henrion, K. Cranmer, J. Bruna, K. Cho, J. Brehmer, G. Louppe and G. Rochette, [Neural Message Passing for Jet Physics](https://dl4physicalsciences.github.io/files/nips_dlps_2017_29.pdf), Proceedings of the Deep Learning for Physical Sciences Workshop at NIPS (2017). (December 8, 2017)
 
 - T. Cheng, "[Recursive Neural Networks in Quark/Gluon Tagging](https://inspirehep.net/record/1634876)," arXiv:1711.02633 [hep-ph]. (November 7, 2017)
+
+- S. Chang, T. Cohen, and B. Ostdiek, "[What is the Machine Learning?](https://inspirehep.net/record/1627883)," arXiv:1709.10106 [hep-ph]. (September 28, 2017)
 
 - M. Frate, K. Cranmer, S. Kalia, A. Vandenberg-Rodes, and D. Whiteson, “[Modeling Smooth Backgrounds and Generic Localized Signals with Gaussian Processes](https://inspirehep.net/record/1624168),” arXiv:1709.05681 [physics.data-an]. (September 17, 2017)
 
