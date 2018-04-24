@@ -122,11 +122,11 @@ Listing of useful (mostly) public learning resources for machine learning applic
 
   - [TMVA-branch-adder](https://github.com/pseyfert/tmva-branch-adder): wrapper to add TMVA response to TTree without boiler plate code
 
-#### High level deep learning libraries/framework APIs
+### High level deep learning libraries/framework APIs
 
 - [Keras](https://keras.io/)
 
-#### Deep learning frameworks
+### Deep learning frameworks
 
 - [TensorFlow](https://www.tensorflow.org/)
 - [Theano](http://deeplearning.net/software/theano/)
@@ -134,7 +134,7 @@ Listing of useful (mostly) public learning resources for machine learning applic
 - [Caffe2](https://caffe2.ai/)
 - [List of Conversion Tools For Saved Networks](https://github.com/ysh329/deep-learning-model-convertor)
 
-#### HEP to ML bridge tools
+### HEP to ML bridge tools
 
 - [lwtnn](https://github.com/lwtnn/lwtnn): Tool to run Keras networks in C++ code
 
