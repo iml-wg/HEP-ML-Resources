@@ -1,6 +1,7 @@
 # HEPML Resources
 
-[![DOI](https://zenodo.org/badge/89476450.svg)](https://zenodo.org/badge/latestdoi/89476450) [![license](https://img.shields.io/github/license/iml-wg/HEP-ML-Resources.svg)](https://opensource.org/licenses/MIT)
+[![DOI](https://zenodo.org/badge/89476450.svg)](https://zenodo.org/badge/latestdoi/89476450)
+[![license](https://img.shields.io/github/license/iml-wg/HEP-ML-Resources.svg)](https://opensource.org/licenses/MIT)
 
 Listing of useful (mostly) public learning resources for machine learning applications in high energy physics (HEPML). Listings will be in reverse chronological order (like a CV).
 
@@ -9,16 +10,13 @@ Listing of useful (mostly) public learning resources for machine learning applic
 ## Table of contents
 
 - [Introductory Material](#introductory-material)
-
-  - [Lectures](#lectures)
-  - [Seminar Series](#seminar-series)
-  - [Tutorials](#tutorials)
-  - [Schools](#schools)
-  - [Courses](#courses)
-  - [Journals](#journals)
-
+   - [Lectures](#lectures)
+   - [Seminar Series](#seminar-series)
+   - [Tutorials](#tutorials)
+   - [Schools](#schools)
+   - [Courses](#courses)
+   - [Journals](#journals)
 - [Software](#software)
-
 - [Papers](#papers)
 - [Workshops](#workshops)
 - [Tweets](#tweets)
@@ -48,7 +46,6 @@ Listing of useful (mostly) public learning resources for machine learning applic
 - [CERN Data Science Seminars](https://indico.cern.ch/category/9320/)
 
 - [Inter-Experimental LHC Machine Learning Working Group](https://iml.web.cern.ch/) Guest Seminars:
-
   - [Open challenges for improving Generative Adversarial Networks (GANs)](https://indico.cern.ch/event/673989/), by [Ian Goodfellow](http://www.iangoodfellow.com/) (October 27, 2017)
 
 ### Tutorials
@@ -76,32 +73,22 @@ Listing of useful (mostly) public learning resources for machine learning applic
 - [4th Machine Learning in High Energy Physics Summer School 2018](https://indico.cern.ch/event/687473/) (August 6-12, 2018)
 
 ##### Past:
-
 - [3rd Machine Learning in High Energy Physics Summer School 2017](https://indico.cern.ch/event/613571/) (July 17-23, 2017)
-
-  - Associated [Yandex School of Data Analysis](https://github.com/yandexdataschool) repo: [mlhep2017](https://github.com/yandexdataschool/mlhep2017)
-
+   - Associated [Yandex School of Data Analysis](https://github.com/yandexdataschool) repo: [mlhep2017](https://github.com/yandexdataschool/mlhep2017)
 - [1st Computational and Data Science School for High Energy Physics](http://codas-hep.org/) (July 10-13, 2017)
-
 - [2nd Machine Learning in High Energy Physics Summer School 2016](https://indico.cern.ch/event/497368/overview) (June 20-26, 2016)
-
-  - Associated [Yandex School of Data Analysis](https://github.com/yandexdataschool) repo: [mlhep2016](https://github.com/yandexdataschool/mlhep2016)
-
+   - Associated [Yandex School of Data Analysis](https://github.com/yandexdataschool) repo: [mlhep2016](https://github.com/yandexdataschool/mlhep2016)
 - [1st Machine Learning in High Energy Physics Summer School 2015](https://www.hse.ru/mlhep2015) (August 27-30, 2015)
-
-  - Associated [Yandex School of Data Analysis](https://github.com/yandexdataschool) repo: [mlhep2015](https://github.com/yandexdataschool/mlhep2015)
+   - Associated [Yandex School of Data Analysis](https://github.com/yandexdataschool) repo: [mlhep2015](https://github.com/yandexdataschool/mlhep2015)
 
 #### Deep Learning:
-
 ##### Upcoming:
-
 - [Machine Learning Summer School 2018, Buenos Aires, Argentina](http://mlss2018.net.ar/) (June 18-20, 2018)
 - [Machine Learning Summer School 2018, Madrid, Spain](http://mlss.ii.uam.es/mlss2018/index.html) (August 27 - September 7, 2018)
 - [Deep Learning and Reinforcement Learning Summer School, Toronto, Canada](https://dlrlsummerschool.ca/) (July 25 - August 3, 2018)
 - [PAISS: Artificial Intelligence Summer School, Grenoble, France](https://project.inria.fr/paiss/) (July 2-6, 2018)
 
 ##### Past:
-
 - [Deep Learning Summer School 2016](https://sites.google.com/site/deeplearningsummerschool2016/) (August 1-7, 2016)
 
 ### Courses
@@ -109,13 +96,11 @@ Listing of useful (mostly) public learning resources for machine learning applic
 - [Advanced Machine Learning](http://www.montefiore.ulg.ac.be/~geurts/Cours/AML/aml2017_2018.html), Pierre Geurts, [Gilles Louppe](https://glouppe.github.io/), and Louis Wehenkel (Spring, 2018 - Université de Liège, Institut Montefiore)
 
 - [Applications of Deep Learning to High Energy Physics](https://wiki.uta.edu/display/~afarbin/Physics+4%285%29391-002+-+Applications+of+Deep+Learning+to+High+Energy+Physics), [Amir Farbin](http://www.uta.edu/physics/pages/faculty/profiles/farbin/index.html) (Spring, 2017 - University of Texas at Arlington)
-
-  - Associated GitHub repository: [DSatHEP-Tutorial](https://github.com/UTA-HEP-Computing/DSatHEP-Tutorial)
+   - Associated GitHub repository: [DSatHEP-Tutorial](https://github.com/UTA-HEP-Computing/DSatHEP-Tutorial)
 
 - [Tensorflow for Deep Learning Research](https://web.stanford.edu/class/cs20si/syllabus.html), (Spring, 2017 - Stanford Univeristy)
 
 - Introduction to Machine Learning and Convolutional Neural Networks for Visual Recognition:
-
   - [Spring, 2017](https://www.youtube.com/watch?v=vT1JzLTH4G4&list=PL3FW7Lu3i5JvHM8ljYj-zLfQRF3EO8sYv) - Stanford University, [Fei-Fei Li](http://vision.stanford.edu/feifeili/), [Justin Johnson](http://cs.stanford.edu/people/jcjohns/), [Serena Yeung](http://ai.stanford.edu/~syyeung/)
   - [Winter, 2016](https://www.youtube.com/watch?v=NfnWJUyUJYU) - Stanford University, [Andrej Karpathy](https://cs.stanford.edu/people/karpathy/), [Fei-Fei Li](http://vision.stanford.edu/feifeili/), [Justin Johnson](http://cs.stanford.edu/people/jcjohns/)
 
@@ -163,7 +148,7 @@ Listing of useful (mostly) public learning resources for machine learning applic
 
 - [ttree2hdf5](https://github.com/dguest/ttree2hdf5): Mimimalist ROOT to HDF5 converter (written in C++)
 
-- [hep_ml](https://github.com/arogozhnikov/hep_ml): Python algorithms and tools for HEP ML use cases 
+- [hep_ml](https://github.com/arogozhnikov/hep_ml): Python algorithms and tools for HEP ML use cases
 
 <!-- ## Notebooks - [Vince Croft RooFit Notebooks](https://www.nikhef.nl/~vcroft/notebooks.html) -->
 
@@ -171,7 +156,9 @@ Listing of useful (mostly) public learning resources for machine learning applic
 
 > A `.bib` file for all papers listed is [available in the `tex` directory](https://github.com/iml-wg/HEP-ML-Resources/blob/master/tex/HEPML.bib).
 
-- CMS Collaboration, A. M. Sirunyan _et al._, "[Identification of heavy-flavour jets with the CMS detector in pp collisions at 13 TeV](https://inspirehep.net/record/1644362)," arXiv:1712.07158 [physics.ins-det]. (December 19, 2017)
+- CMS Collaboration, A. M. Sirunyan _et al._, "[Identification of heavy-flavour jets with
+the CMS detector in pp collisions at 13 TeV](https://inspirehep.net/record/1644362)," arXiv:1712.07158
+[physics.ins-det]. (December 19, 2017)
 
 - V. Estrade, C. Germain, I. Guyon and D. Rousseau, [Adversarial learning to eliminate systematic errors: a case study in High Energy Physics](https://dl4physicalsciences.github.io/files/nips_dlps_2017_1.pdf), Proceedings of the Deep Learning for Physical Sciences Workshop at NIPS (2017). (December 8, 2017)
 
