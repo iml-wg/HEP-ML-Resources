@@ -156,9 +156,11 @@ Listing of useful (mostly) public learning resources for machine learning applic
 
 > A `.bib` file for all papers listed is [available in the `tex` directory](https://github.com/iml-wg/HEP-ML-Resources/blob/master/tex/HEPML.bib).
 
-- CMS Collaboration, A. M. Sirunyan _et al._, "[Identification of heavy-flavour jets with
-the CMS detector in pp collisions at 13 TeV](https://inspirehep.net/record/1644362)," arXiv:1712.07158
-[physics.ins-det]. (December 19, 2017)
+- J. Brehmer, K. Cranmer, G. Louppe, and J. Pavez, "[Constraining Effective Field Theories with Machine Learning](https://inspirehep.net/record/1670936)," arXiv:1805.00013 [hep-ph]. (April 30, 2018)
+
+- J. Brehmer, K. Cranmer, G. Louppe, and J. Pavez, "[A Guide to Constraining Effective Field Theories with Machine Learning](https://inspirehep.net/record/1670939)," arXiv:1805.00020 [hep-ph]. (April 30, 2018)
+
+- CMS Collaboration, A. M. Sirunyan _et al._, "[Identification of heavy-flavour jets with the CMS detector in pp collisions at 13 TeV](https://inspirehep.net/record/1644362)," arXiv:1712.07158 [physics.ins-det]. (December 19, 2017)
 
 - V. Estrade, C. Germain, I. Guyon and D. Rousseau, [Adversarial learning to eliminate systematic errors: a case study in High Energy Physics](https://dl4physicalsciences.github.io/files/nips_dlps_2017_1.pdf), Proceedings of the Deep Learning for Physical Sciences Workshop at NIPS (2017). (December 8, 2017)
 
