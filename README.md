@@ -269,7 +269,7 @@ from mixed samples in high energy physics](https://inspirehep.net/record/1615464
 
 ## Tweets
 
-- [#HEPML collection of tweets](https://twitter.com/HEPfeickert/timelines/806382943342096384)
+- [#HEPML collection of tweets](https://twitter.com/search?q=HEPML&src=typd)
 
 ## People
 
