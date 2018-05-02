@@ -241,11 +241,12 @@ from mixed samples in high energy physics](https://inspirehep.net/record/1615464
 
 ### Upcoming
 
-- [2nd IML Machine Learning Workshop (2018)](https://indico.cern.ch/event/668017/) (April 9-12, 2018)
-- [Machine Learning for Phenomenology (2018)](https://conference.ippp.dur.ac.uk/event/660/) (April 3-6, 2018)
+- TBA
 
 ### Past
 
+- [2nd IML Machine Learning Workshop (2018)](https://indico.cern.ch/event/668017/) (April 9-12, 2018)
+- [Machine Learning for Phenomenology (2018)](https://conference.ippp.dur.ac.uk/event/660/) (April 3-6, 2018)
 - [4th International Connecting The Dots Workshop (2018)](https://indico.cern.ch/event/658267/) (March 20-22, 2018)
 - [Machine Learning for Jet Physics](https://indico.physics.lbl.gov/indico/event/546/) (December 11-13, 2017)
 - [Deep Learning for Physical Sciences at NIPS](https://dl4physicalsciences.github.io/) (December 8, 2017)
