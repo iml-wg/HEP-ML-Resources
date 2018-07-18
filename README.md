@@ -156,6 +156,8 @@ Listing of useful (mostly) public learning resources for machine learning applic
 
 > A `.bib` file for all papers listed is [available in the `tex` directory](https://github.com/iml-wg/HEP-ML-Resources/blob/master/tex/HEPML.bib).
 
+- D. Guest, K. Cranmer, and D. Whiteson, "[Deep Learning and its Application to LHC Physics](https://inspirehep.net/record/1680302)," arXiv:1806.11484 [hep-ex]. (June 29, 2018)
+
 - J. Brehmer, K. Cranmer, G. Louppe, and J. Pavez, "[Constraining Effective Field Theories with Machine Learning](https://inspirehep.net/record/1670936)," arXiv:1805.00013 [hep-ph]. (April 30, 2018)
 
 - J. Brehmer, K. Cranmer, G. Louppe, and J. Pavez, "[A Guide to Constraining Effective Field Theories with Machine Learning](https://inspirehep.net/record/1670939)," arXiv:1805.00020 [hep-ph]. (April 30, 2018)
