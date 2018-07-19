@@ -1,2 +1,10 @@
 # Specifies intentionally untracked files that Git should ignore
 *~
+
+# Ignore LaTeX auxiliary files and output
+*.aux
+*.bbl
+*.blg
+*.log
+*.out
+*.pdf
