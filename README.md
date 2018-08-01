@@ -156,6 +156,11 @@ Listing of useful (mostly) public learning resources for machine learning applic
 
 > A `.bib` file for all papers listed is [available in the `tex` directory](https://github.com/iml-wg/HEP-ML-Resources/blob/master/tex/HEPML.bib).
 
+- M. Andrews, M. Paulini, S. Gleyzer, and B. Poczos, "[End-to-End Physics Event
+Classification with the CMS Open Data: Applying Image-based Deep Learning on
+Detector Data to Directly Classify Collision Events at the LHC](https://inspirehep.net/record/1684494)," arXiv:1807.11916
+[hep-ex]. (July 31, 2018)
+
 - J. Lin, M. Freytsis, I. Moult, and B. Nachman, "[Boosting H → bb̅ with Machine Learning](https://inspirehep.net/record/1684331)," arXiv:1807.10768 [hep-ph]. (July 27, 2018)
 
 - K. Albertsson _et al._, "[Machine Learning in High Energy Physics Community White Paper](https://inspirehep.net/record/1681439)," arXiv:1807.02876 [physics.comp-ph]. (July 8, 2018)
