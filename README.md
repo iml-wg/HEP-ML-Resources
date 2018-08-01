@@ -156,6 +156,8 @@ Listing of useful (mostly) public learning resources for machine learning applic
 
 > A `.bib` file for all papers listed is [available in the `tex` directory](https://github.com/iml-wg/HEP-ML-Resources/blob/master/tex/HEPML.bib).
 
+- J. Lin, M. Freytsis, I. Moult, and B. Nachman, "[Boosting H → bb̅ with Machine Learning](https://inspirehep.net/record/1684331)," arXiv:1807.10768 [hep-ph]. (July 27, 2018)
+
 - K. Albertsson _et al._, "[Machine Learning in High Energy Physics Community White Paper](https://inspirehep.net/record/1681439)," arXiv:1807.02876 [physics.comp-ph]. (July 8, 2018)
 
 - D. Guest, K. Cranmer, and D. Whiteson, "[Deep Learning and its Application to LHC Physics](https://inspirehep.net/record/1680302)," arXiv:1806.11484 [hep-ex]. (June 29, 2018)
