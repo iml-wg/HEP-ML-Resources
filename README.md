@@ -50,6 +50,8 @@ Listing of useful (mostly) public learning resources for machine learning applic
 
 ### Tutorials
 
+- [PyTorch Deep Learning Minicourse](https://github.com/Atcold/pytorch-Deep-Learning-Minicourse) - [CoDaS-HEP 2018](https://indico.cern.ch/event/707498/timetable/), by [Alfredo Canziani](https://github.com/Atcold) [![Binder](https://mybinder.org/badge.svg)](https://mybinder.org/v2/gh/Atcold/PyTorch-Deep-Learning-Minicourse/master)
+
 - [Intro Tutorial on GANs](https://indico.fnal.gov/event/16720/), by [Michela Paganini](http://mickypaganini.github.io) [![Binder](https://mybinder.org/badge.svg)](https://mybinder.org/v2/gh/mickypaganini/gan_tutorial/master)
 
 - [Scikit-learn Tutorial](https://indico.cern.ch/event/595059/contributions/2522192/), by [Gilles Louppe](https://glouppe.github.io/) [![Binder](https://mybinder.org/badge.svg)](https://mybinder.org/v2/gh/glouppe/tutorials-iml2017/master) [![nbviewer](https://img.shields.io/badge/view%20on-nbviewer-brightgreen.svg)](https://nbviewer.jupyter.org/github/glouppe/tutorials-iml2017/tree/master/)
