@@ -158,6 +158,9 @@ Listing of useful (mostly) public learning resources for machine learning applic
 
 > A `.bib` file for all papers listed is [available in the `tex` directory](https://github.com/iml-wg/HEP-ML-Resources/blob/master/tex/HEPML.bib).
 
+- D. Bourgeois, C. Fitzpatrick and S. Stahl, "[Using holistic event information in the Trigger](https://inspirehep.net/record/1684792)," arXiv:1808.00711
+[hep-ex]. (August 8, 2018)
+
 - M. Andrews, M. Paulini, S. Gleyzer, and B. Poczos, "[End-to-End Physics Event
 Classification with the CMS Open Data: Applying Image-based Deep Learning on
 Detector Data to Directly Classify Collision Events at the LHC](https://inspirehep.net/record/1684494)," arXiv:1807.11916
