@@ -158,7 +158,7 @@ Listing of useful (mostly) public learning resources for machine learning applic
 
 > A `.bib` file for all papers listed is [available in the `tex` directory](https://github.com/iml-wg/HEP-ML-Resources/blob/master/tex/HEPML.bib).
 
-- M. Stoye, J. Brehmer, L. Gilles, J. Paez, and K. Cranmer "[Likelihood-free inference with an improved cross-entropy estimator](https://inspirehep.net/record/1684960)," arXiv:1808.00973 [stat.ML]. (August 2, 2018)
+- M. Stoye, J. Brehmer, L. Gilles, J. Paez, and K. Cranmer, "[Likelihood-free inference with an improved cross-entropy estimator](https://inspirehep.net/record/1684960)," arXiv:1808.00973 [stat.ML]. (August 2, 2018)
 
 - D. Bourgeois, C. Fitzpatrick, and S. Stahl, "[Using holistic event information in the Trigger](https://inspirehep.net/record/1684792)," arXiv:1808.00711 [physics.ins-det]. (August 2, 2018)
 
