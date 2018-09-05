@@ -72,8 +72,6 @@ Listing of useful (mostly) public learning resources for machine learning applic
 
 ##### Upcoming:
 
-- [2nd PIP Summer School on Machine Learning 2018](http://www.pip.uni-bremen.de/news/pip-summer-school-2018/) (September 24-28, 2018)
-
 ##### Past:
 
 - [4th Machine Learning in High Energy Physics Summer School 2018](https://indico.cern.ch/event/687473/) (August 6-12, 2018)
@@ -86,11 +84,6 @@ Listing of useful (mostly) public learning resources for machine learning applic
    - Associated [Yandex School of Data Analysis](https://github.com/yandexdataschool) repo: [mlhep2015](https://github.com/yandexdataschool/mlhep2015)
 
 #### Deep Learning:
-##### Upcoming:
-- [Machine Learning Summer School 2018, Buenos Aires, Argentina](http://mlss2018.net.ar/) (June 18-20, 2018)
-- [Machine Learning Summer School 2018, Madrid, Spain](http://mlss.ii.uam.es/mlss2018/index.html) (August 27 - September 7, 2018)
-- [Deep Learning and Reinforcement Learning Summer School, Toronto, Canada](https://dlrlsummerschool.ca/) (July 25 - August 3, 2018)
-- [PAISS: Artificial Intelligence Summer School, Grenoble, France](https://project.inria.fr/paiss/) (July 2-6, 2018)
 
 ##### Upcoming:
 
