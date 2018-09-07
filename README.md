@@ -72,9 +72,10 @@ Listing of useful (mostly) public learning resources for machine learning applic
 
 ##### Upcoming:
 
-- [4th Machine Learning in High Energy Physics Summer School 2018](https://indico.cern.ch/event/687473/) (August 6-12, 2018)
-
 ##### Past:
+
+- [4th Machine Learning in High Energy Physics Summer School 2018](https://indico.cern.ch/event/687473/) (August 6-12, 2018)
+   - Associated [Yandex School of Data Analysis](https://github.com/yandexdataschool) repo: [mlhep2018](https://github.com/yandexdataschool/mlhep2018)
 - [3rd Machine Learning in High Energy Physics Summer School 2017](https://indico.cern.ch/event/613571/) (July 17-23, 2017)
    - Associated [Yandex School of Data Analysis](https://github.com/yandexdataschool) repo: [mlhep2017](https://github.com/yandexdataschool/mlhep2017)
 - [1st Computational and Data Science School for High Energy Physics](http://codas-hep.org/) (July 10-13, 2017)
@@ -84,13 +85,17 @@ Listing of useful (mostly) public learning resources for machine learning applic
    - Associated [Yandex School of Data Analysis](https://github.com/yandexdataschool) repo: [mlhep2015](https://github.com/yandexdataschool/mlhep2015)
 
 #### Deep Learning:
+
 ##### Upcoming:
-- [Machine Learning Summer School 2018, Buenos Aires, Argentina](http://mlss2018.net.ar/) (June 18-20, 2018)
+
 - [Machine Learning Summer School 2018, Madrid, Spain](http://mlss.ii.uam.es/mlss2018/index.html) (August 27 - September 7, 2018)
-- [Deep Learning and Reinforcement Learning Summer School, Toronto, Canada](https://dlrlsummerschool.ca/) (July 25 - August 3, 2018)
-- [PAISS: Artificial Intelligence Summer School, Grenoble, France](https://project.inria.fr/paiss/) (July 2-6, 2018)
+- [Machine Learning Summer School 2019, Stellenbosch, South Africa](http://mlssafrica.com/) (January 7-18, 2019)
 
 ##### Past:
+
+- [Machine Learning Summer School 2018, Buenos Aires, Argentina](http://mlss2018.net.ar/) (June 18-20, 2018)
+- [Deep Learning and Reinforcement Learning Summer School, Toronto, Canada](https://dlrlsummerschool.ca/) (July 25 - August 3, 2018)
+- [PAISS: Artificial Intelligence Summer School, Grenoble, France](https://project.inria.fr/paiss/) (July 2-6, 2018)
 - [Deep Learning Summer School 2016](https://sites.google.com/site/deeplearningsummerschool2016/) (August 1-7, 2016)
 
 ### Courses
