@@ -119,9 +119,9 @@ Listing of useful (mostly) public learning resources for machine learning applic
 
 #### Common software tools and environments used in HEP for ML
 
-- The [Conda package and environment manager](https://conda.io/docs/) and [Anaconda](https://www.continuum.io/anaconda-overview) Python library collection
-
 - See also the [HSF PyHEP Resources](https://github.com/hsf-training/PyHEP-resources)
+
+- The [Conda package and environment manager](https://conda.io/docs/) and [Anaconda](https://www.continuum.io/anaconda-overview) Python library collection
 
   - [Using ROOT/PyROOT with Conda and NumPy](https://indico.cern.ch/event/619371/attachments/1450504/2236434/Kagan_Lecture2.pdf#page=99)
 
