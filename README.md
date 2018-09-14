@@ -119,13 +119,15 @@ Listing of useful (mostly) public learning resources for machine learning applic
 
 #### Common software tools and environments used in HEP for ML
 
-- See also the [HSF PyHEP Resources](https://github.com/hsf-training/PyHEP-resources)
+- Python environments for scientific computing
 
-- The [Conda package and environment manager](https://conda.io/docs/) and [Anaconda](https://www.continuum.io/anaconda-overview) Python library collection
+    - [HEP Software Foundation](https://github.com/hsf-training)'s list of [Python Libraries of Interest to Particle Physics](https://github.com/hsf-training/PyHEP-resources)
 
-  - [Using ROOT/PyROOT with Conda and NumPy](https://indico.cern.ch/event/619371/attachments/1450504/2236434/Kagan_Lecture2.pdf#page=99)
+    - The [Conda package and environment manager](https://conda.io/docs/) and [Anaconda](https://www.continuum.io/anaconda-overview) Python library collection
 
-- [scikit-learn](http://scikit-learn.org/stable/): General machine learning package
+      - [Using ROOT/PyROOT with Conda and NumPy](https://indico.cern.ch/event/619371/attachments/1450504/2236434/Kagan_Lecture2.pdf#page=99)
+
+    - [scikit-learn](http://scikit-learn.org/stable/): General machine learning Python library
 
 - [TMVA](https://root.cern.ch/tmva): ROOT's builtin machine learning package
 
