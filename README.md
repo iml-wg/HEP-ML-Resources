@@ -20,6 +20,7 @@ Listing of useful (mostly) public learning resources for machine learning applic
 - [Papers](#papers)
 - [Workshops](#workshops)
 - [Tweets](#tweets)
+- [Other HEP Resource Collections](#other-hep-resource-collections)
 - [People](#people)
 - [Contributing](#contributing)
 
@@ -119,11 +120,13 @@ Listing of useful (mostly) public learning resources for machine learning applic
 
 #### Common software tools and environments used in HEP for ML
 
-- The [Conda package and environment manager](https://conda.io/docs/) and [Anaconda](https://www.continuum.io/anaconda-overview) Python library collection
+- Python environments for scientific computing
 
-  - [Using ROOT/PyROOT with Conda and NumPy](https://indico.cern.ch/event/619371/attachments/1450504/2236434/Kagan_Lecture2.pdf#page=99)
+    - The [Conda package and environment manager](https://conda.io/docs/) and [Anaconda](https://www.continuum.io/anaconda-overview) Python library collection
 
-- [scikit-learn](http://scikit-learn.org/stable/): General machine learning package
+      - [Using ROOT/PyROOT with Conda and NumPy](https://indico.cern.ch/event/619371/attachments/1450504/2236434/Kagan_Lecture2.pdf#page=99)
+
+    - [scikit-learn](http://scikit-learn.org/stable/): General machine learning Python library
 
 - [TMVA](https://root.cern.ch/tmva): ROOT's builtin machine learning package
 
@@ -297,6 +300,10 @@ from mixed samples in high energy physics](https://inspirehep.net/record/1615464
 
 - [HEPML directory](http://mickypaganini.github.io/HEPML_directory): Opt-in list of people working at the intersection of Machine Learning and High Energy Physics
    - Add yourself through the [Google form](https://t.co/jprokVZEiK)
+
+## Other HEP Resource Collections
+
+- [HEP Software Foundation](https://github.com/hsf-training)'s list of [Python Libraries of Interest to Particle Physics](https://github.com/hsf-training/PyHEP-resources)
 
 ## Contributing
 
