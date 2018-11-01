@@ -152,6 +152,8 @@ Listing of useful (mostly) public learning resources for machine learning applic
 
 - [Scikit-HEP](http://scikit-hep.org/): Toolset of interfaces and Python tools for Particle Physics
 
+  - [sklearn-porter](https://github.com/nok/sklearn-porter): Transpile trained scikit-learn estimators to C, Java, JavaScript and others.
+  
   - [root_numpy](https://github.com/scikit-hep/root_numpy): The interface between ROOT and numpy
 
   - [root_pandas](https://github.com/scikit-hep/root_pandas): An upgrade of root_numpy to use with pandas
