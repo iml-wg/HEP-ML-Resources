@@ -158,6 +158,8 @@ Listing of useful (mostly) public learning resources for machine learning applic
 
   - [uproot](https://github.com/scikit-hep/uproot): Mimimalist ROOT to numpy converter (no dependency on ROOT)
 
+- [sklearn-porter](https://github.com/nok/sklearn-porter): Transpile trained scikit-learn estimators to C, Java, JavaScript and others
+
 - [ttree2hdf5](https://github.com/dguest/ttree2hdf5): Mimimalist ROOT to HDF5 converter (written in C++)
 
 - [hep_ml](https://github.com/arogozhnikov/hep_ml): Python algorithms and tools for HEP ML use cases
