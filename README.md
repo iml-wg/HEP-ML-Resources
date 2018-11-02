@@ -150,6 +150,10 @@ Listing of useful (mostly) public learning resources for machine learning applic
 
 - [lwtnn](https://github.com/lwtnn/lwtnn): Tool to run Keras networks in C++ code
 
+- [sklearn-porter](https://github.com/nok/sklearn-porter): Transpile trained scikit-learn estimators to C, Java, JavaScript and others
+
+- [ONNX](https://onnx.ai) open format to represent deep learning models
+
 - [Scikit-HEP](http://scikit-hep.org/): Toolset of interfaces and Python tools for Particle Physics
 
   - [root_numpy](https://github.com/scikit-hep/root_numpy): The interface between ROOT and numpy
@@ -157,8 +161,6 @@ Listing of useful (mostly) public learning resources for machine learning applic
   - [root_pandas](https://github.com/scikit-hep/root_pandas): An upgrade of root_numpy to use with pandas
 
   - [uproot](https://github.com/scikit-hep/uproot): Mimimalist ROOT to numpy converter (no dependency on ROOT)
-
-- [sklearn-porter](https://github.com/nok/sklearn-porter): Transpile trained scikit-learn estimators to C, Java, JavaScript and others
 
 - [ttree2hdf5](https://github.com/dguest/ttree2hdf5): Mimimalist ROOT to HDF5 converter (written in C++)
 
