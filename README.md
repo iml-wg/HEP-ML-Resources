@@ -100,6 +100,7 @@ Listing of useful (mostly) public learning resources for machine learning applic
 - [Deep Learning and Reinforcement Learning Summer School, Toronto, Canada](https://dlrlsummerschool.ca/) (July 25 - August 3, 2018)
 - [PAISS: Artificial Intelligence Summer School, Grenoble, France](https://project.inria.fr/paiss/) (July 2-6, 2018)
 - [Deep Learning Summer School 2016](https://sites.google.com/site/deeplearningsummerschool2016/) (August 1-7, 2016)
+- [First Nepal Winter School in AI](https://nepalschool.naamii.com.np/home)(December 20-30, 2018)
 
 ### Courses
 
