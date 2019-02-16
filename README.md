@@ -79,9 +79,10 @@ Listing of useful (mostly) public learning resources for machine learning applic
 
 - [4th Machine Learning in High Energy Physics Summer School 2018](https://indico.cern.ch/event/687473/) (August 6-12, 2018)
    - Associated [Yandex School of Data Analysis](https://github.com/yandexdataschool) repo: [mlhep2018](https://github.com/yandexdataschool/mlhep2018)
+- [2nd Computational and Data Science school for High Energy Physics (CoDaS-HEP 2018)](https://indico.cern.ch/event/707498/) (July 23-27, 2018)
 - [3rd Machine Learning in High Energy Physics Summer School 2017](https://indico.cern.ch/event/613571/) (July 17-23, 2017)
    - Associated [Yandex School of Data Analysis](https://github.com/yandexdataschool) repo: [mlhep2017](https://github.com/yandexdataschool/mlhep2017)
-- [1st Computational and Data Science School for High Energy Physics](http://codas-hep.org/) (July 10-13, 2017)
+- [1st Computational and Data Science School for High Energy Physics (CoDaS-HEP)](https://indico.cern.ch/event/625333/) (July 10-13, 2017)
 - [2nd Machine Learning in High Energy Physics Summer School 2016](https://indico.cern.ch/event/497368/overview) (June 20-26, 2016)
    - Associated [Yandex School of Data Analysis](https://github.com/yandexdataschool) repo: [mlhep2016](https://github.com/yandexdataschool/mlhep2016)
 - [1st Machine Learning in High Energy Physics Summer School 2015](https://www.hse.ru/mlhep2015) (August 27-30, 2015)
