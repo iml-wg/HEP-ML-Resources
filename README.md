@@ -51,17 +51,17 @@ Listing of useful (mostly) public learning resources for machine learning applic
 
 ### Tutorials
 
-- [PyTorch Deep Learning Minicourse](https://github.com/Atcold/pytorch-Deep-Learning-Minicourse) - [CoDaS-HEP 2018](https://indico.cern.ch/event/707498/timetable/), by [Alfredo Canziani](https://github.com/Atcold) [![Binder](https://mybinder.org/badge.svg)](https://mybinder.org/v2/gh/Atcold/PyTorch-Deep-Learning-Minicourse/master)
+- [PyTorch Deep Learning Minicourse](https://github.com/Atcold/pytorch-Deep-Learning-Minicourse) - [CoDaS-HEP 2018](https://indico.cern.ch/event/707498/timetable/), by [Alfredo Canziani](https://github.com/Atcold) [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/Atcold/PyTorch-Deep-Learning-Minicourse/master)
 
-- [Intro Tutorial on GANs](https://indico.fnal.gov/event/16720/), by [Michela Paganini](http://mickypaganini.github.io) [![Binder](https://mybinder.org/badge.svg)](https://mybinder.org/v2/gh/mickypaganini/gan_tutorial/master)
+- [Intro Tutorial on GANs](https://indico.fnal.gov/event/16720/), by [Michela Paganini](http://mickypaganini.github.io) [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/mickypaganini/gan_tutorial/master)
 
-- [Scikit-learn Tutorial](https://indico.cern.ch/event/595059/contributions/2522192/), by [Gilles Louppe](https://glouppe.github.io/) [![Binder](https://mybinder.org/badge.svg)](https://mybinder.org/v2/gh/glouppe/tutorials-iml2017/master) [![nbviewer](https://img.shields.io/badge/view%20on-nbviewer-brightgreen.svg)](https://nbviewer.jupyter.org/github/glouppe/tutorials-iml2017/tree/master/)
+- [Scikit-learn Tutorial](https://indico.cern.ch/event/595059/contributions/2522192/), by [Gilles Louppe](https://glouppe.github.io/) [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/glouppe/tutorials-iml2017/master) [![nbviewer](https://img.shields.io/badge/view%20on-nbviewer-brightgreen.svg)](https://nbviewer.jupyter.org/github/glouppe/tutorials-iml2017/tree/master/)
 
 - [TMVA Tutorial](https://indico.cern.ch/event/595059/contributions/2522191/), by [Lorenzo Moneta](https://phonebook.cern.ch/phonebook/#personDetails/?id=415998)
 
 - [Keras and TMVA interfaces Tutorial](https://indico.cern.ch/event/595059/contributions/2522193/), by [Stefan Wunsch](https://www.ims.kit.edu/14_117.php)
 
-- [Boosted Decision Tree Tutorial (using XGBoost)](https://github.com/k-woodruff/bdt-tutorial), by [Katherine Woodruff](https://tele.fnal.gov/cgi-bin/telephone.script?type=name_last&accuracy=contains&string=WOODRUFF) [![Binder](https://mybinder.org/badge.svg)](https://mybinder.org/v2/gh/k-woodruff/bdt-tutorial/master) [![nbviewer](https://img.shields.io/badge/view%20on-nbviewer-brightgreen.svg)](http://nbviewer.jupyter.org/github/k-woodruff/bdt-tutorial/tree/master/)
+- [Boosted Decision Tree Tutorial (using XGBoost)](https://github.com/k-woodruff/bdt-tutorial), by [Katherine Woodruff](https://tele.fnal.gov/cgi-bin/telephone.script?type=name_last&accuracy=contains&string=WOODRUFF) [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/k-woodruff/bdt-tutorial/master) [![nbviewer](https://img.shields.io/badge/view%20on-nbviewer-brightgreen.svg)](http://nbviewer.jupyter.org/github/k-woodruff/bdt-tutorial/tree/master/)
 
 - [Introduction to Deep Learning with Keras Tutorial](https://gist.github.com/lukedeo/0654e7310432d6d435126c556b863907), by [Luke de Oliveira](https://ldo.io/)
 
