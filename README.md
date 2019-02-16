@@ -17,6 +17,7 @@ Listing of useful (mostly) public learning resources for machine learning applic
    - [Courses](#courses)
    - [Journals](#journals)
 - [Software](#software)
+- [Public Datasets](#public-datasets)
 - [Papers](#papers)
 - [Workshops](#workshops)
 - [Tweets](#tweets)
@@ -169,7 +170,11 @@ Listing of useful (mostly) public learning resources for machine learning applic
 
 <!-- ## Notebooks - [Vince Croft RooFit Notebooks](https://www.nikhef.nl/~vcroft/notebooks.html) -->
 
- ## Papers
+## Public Datasets
+
+- [CERN IML public datasets listing](https://iml.web.cern.ch/public-datasets): Listing of public datsets that are used for machine learning studies at the LHC.
+
+## Papers
 
 > A `.bib` file for all papers listed is [available in the `tex` directory](https://github.com/iml-wg/HEP-ML-Resources/blob/master/tex/HEPML.bib).
 
