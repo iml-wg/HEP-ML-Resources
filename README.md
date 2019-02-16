@@ -168,6 +168,10 @@ Listing of useful (mostly) public learning resources for machine learning applic
 
 - [hep_ml](https://github.com/arogozhnikov/hep_ml): Python algorithms and tools for HEP ML use cases
 
+### Images for Containerized Environments
+
+- [ATLAS Machine Learning Docker images](https://gitlab.cern.ch/aml/containers/docker): Base images for a modern Python 3 machine learning environment for physics
+
 <!-- ## Notebooks - [Vince Croft RooFit Notebooks](https://www.nikhef.nl/~vcroft/notebooks.html) -->
 
 ## Public Datasets
