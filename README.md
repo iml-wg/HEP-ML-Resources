@@ -74,7 +74,7 @@ Listing of useful (mostly) public learning resources for machine learning applic
 
 ##### Upcoming:
 
-- TBA
+- [5th Machine Learning in High Energy Physics Summer School 2019](https://indico.cern.ch/event/768915/) (July 1-10, 2019)
 
 ##### Past:
 
