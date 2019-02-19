@@ -189,6 +189,7 @@ A listing of papers of applications of machine learning to high energy physics c
 
 ### Upcoming
 
+- [3rd IML Machine Learning Workshop (2019)](https://indico.cern.ch/event/766872/) (April 15-18, 2019)
 - [5th Connecting The Dots / Intelligent Trackers (2019)](https://indico.cern.ch/event/742793/) (April 2-5, 2019)
 - [19th International Workshop on Advanced Computing and Analysis Techniques in Physics Research (ACAT 2019)](https://indico.cern.ch/event/708041/) (March 11-15, 2019)
 - [Machine Learning for Jet Physics (2018)](https://indico.cern.ch/event/745718/) (November 14-16, 2018)
