@@ -93,11 +93,12 @@ Listing of useful (mostly) public learning resources for machine learning applic
 
 ##### Upcoming:
 
-- [Machine Learning Summer School 2018, Madrid, Spain](http://mlss.ii.uam.es/mlss2018/index.html) (August 27 - September 7, 2018)
+- [Machine Learning Summer School 2019, London, UK](https://sites.google.com/view/mlss-2019/home?authuser=0) (July 15–26, 2019)
 - [Machine Learning Summer School 2019, Stellenbosch, South Africa](http://mlssafrica.com/) (January 7-18, 2019)
 
 ##### Past:
 
+- [Machine Learning Summer School 2018, Madrid, Spain](http://mlss.ii.uam.es/mlss2018/index.html) (August 27 - September 7, 2018)
 - [Machine Learning Summer School 2018, Buenos Aires, Argentina](http://mlss2018.net.ar/) (June 18-20, 2018)
 - [Deep Learning and Reinforcement Learning Summer School, Toronto, Canada](https://dlrlsummerschool.ca/) (July 25 - August 3, 2018)
 - [PAISS: Artificial Intelligence Summer School, Grenoble, France](https://project.inria.fr/paiss/) (July 2-6, 2018)
