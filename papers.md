@@ -4,6 +4,8 @@
 
 > A `.bib` file for all papers listed is [available in the `tex` directory](https://github.com/iml-wg/HEP-ML-Resources/blob/master/tex/HEPML.bib).
 
+- K. Datta, A. Larkoski, and B. Nachman, "[Automating the Construction of Jet Observables with Machine Learning](https://inspirehep.net/record/1720832)," arXiv:1902.07180 [hep-ph]. (February 19, 2019)
+
 - M. Stoye, J. Brehmer, L. Gilles, J. Paez, and K. Cranmer, "[Likelihood-free inference with an improved cross-entropy estimator](https://inspirehep.net/record/1684960)," arXiv:1808.00973 [stat.ML]. (August 2, 2018)
 
 - D. Bourgeois, C. Fitzpatrick, and S. Stahl, "[Using holistic event information in the Trigger](https://inspirehep.net/record/1684792)," arXiv:1808.00711 [physics.ins-det]. (August 2, 2018)
