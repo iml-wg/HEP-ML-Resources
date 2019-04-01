@@ -4,6 +4,8 @@
 
 > A `.bib` file for all papers listed is [available in the `tex` directory](https://github.com/iml-wg/HEP-ML-Resources/blob/master/tex/HEPML.bib).
 
+- R. Di Sipio, M. Faucci Giannelli, S. Ketabchi Haghighat, and S. Palazzo, "[DijetGAN: A Generative-Adversarial Network Approach for the Simulation of QCD Dijet Events at the LHC](https://inspirehep.net/record/1723861)," arXiv:1903.02433 [hep-ex]. (March 6, 2019)
+
 - K. Datta, A. Larkoski, and B. Nachman, "[Automating the Construction of Jet Observables with Machine Learning](https://inspirehep.net/record/1720832)," arXiv:1902.07180 [hep-ph]. (February 19, 2019)
 
 - M. Stoye, J. Brehmer, L. Gilles, J. Paez, and K. Cranmer, "[Likelihood-free inference with an improved cross-entropy estimator](https://inspirehep.net/record/1684960)," arXiv:1808.00973 [stat.ML]. (August 2, 2018)
