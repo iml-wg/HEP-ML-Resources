@@ -191,6 +191,7 @@ A listing of papers of applications of machine learning to high energy physics c
 ### Upcoming
 
 - [3rd IML Machine Learning Workshop (2019)](https://indico.cern.ch/event/766872/) (April 15-18, 2019)
+- [Accelerating the Search for Dark Matter with Machine Learning (2019)](http://indico.ictp.it/event/8674/) (April 8-12, 2019)
 
 ### Past
 
