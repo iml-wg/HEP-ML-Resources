@@ -191,16 +191,18 @@ A listing of papers of applications of machine learning to high energy physics c
 ### Upcoming
 
 - [3rd IML Machine Learning Workshop (2019)](https://indico.cern.ch/event/766872/) (April 15-18, 2019)
-- [5th Connecting The Dots / Intelligent Trackers (2019)](https://indico.cern.ch/event/742793/) (April 2-5, 2019)
-- [19th International Workshop on Advanced Computing and Analysis Techniques in Physics Research (ACAT 2019)](https://indico.cern.ch/event/708041/) (March 11-15, 2019)
-- [Machine Learning for Jet Physics (2018)](https://indico.cern.ch/event/745718/) (November 14-16, 2018)
+- [Accelerating the Search for Dark Matter with Machine Learning (2019)](http://indico.ictp.it/event/8674/) (April 8-12, 2019)
 
 ### Past
 
+- [5th Connecting The Dots / Intelligent Trackers (2019)](https://indico.cern.ch/event/742793/) (April 2-5, 2019)
+- [19th International Workshop on Advanced Computing and Analysis Techniques in Physics Research (ACAT 2019)](https://indico.cern.ch/event/708041/) (March 11-15, 2019)
+- [Machine Learning for Jet Physics (2018)](https://indico.cern.ch/event/745718/) (November 14-16, 2018)
 - [CMS Machine Learning Workshop (2018)](https://indico.cern.ch/event/730677/) (July 2-4, 2018) ![CMS only](https://img.shields.io/badge/restricted-CMS-red.svg)
 - [2nd IML Machine Learning Workshop (2018)](https://indico.cern.ch/event/668017/) (April 9-12, 2018)
 - [Machine Learning for Phenomenology (2018)](https://conference.ippp.dur.ac.uk/event/660/) (April 3-6, 2018)
 - [4th International Connecting The Dots Workshop (2018)](https://indico.cern.ch/event/658267/) (March 20-22, 2018)
+- [Accelerating the Search for Dark Matter with Machine Learning (2018)](https://indico.cern.ch/event/664842/) (January 15-19, 2018)
 - [Machine Learning for Jet Physics (2017)](https://indico.physics.lbl.gov/indico/event/546/) (December 11-13, 2017)
 - [Deep Learning for Physical Sciences at NIPS](https://dl4physicalsciences.github.io/) (December 8, 2017)
 - [18th International Workshop on Advanced Computing and Analysis Techniques in Physics Research (ACAT 2017)](https://indico.cern.ch/event/567550/) (August 21-25, 2017)
