@@ -4,6 +4,8 @@
 
 > A `.bib` file for all papers listed is [available in the `tex` directory](https://github.com/iml-wg/HEP-ML-Resources/blob/master/tex/HEPML.bib).
 
+- M. Borisyak, N. Kazeev, "[Machine Learning on data with sPlot background subtraction](https://inspirehep.net/record/1737258)," arXiv:1905.11719 [cs.LG]. (May 28, 2019)
+
 - R. Di Sipio, M. Faucci Giannelli, S. Ketabchi Haghighat, and S. Palazzo, "[DijetGAN: A Generative-Adversarial Network Approach for the Simulation of QCD Dijet Events at the LHC](https://inspirehep.net/record/1723861)," arXiv:1903.02433 [hep-ex]. (March 6, 2019)
 
 - K. Datta, A. Larkoski, and B. Nachman, "[Automating the Construction of Jet Observables with Machine Learning](https://inspirehep.net/record/1720832)," arXiv:1902.07180 [hep-ph]. (February 19, 2019)
