@@ -194,7 +194,7 @@ A listing of papers of applications of machine learning to high energy physics c
 
 ### Past
 
-- [CMS Machine Learning Workshop (2019)](https://indico.cern.ch/event/798721/) (June 17-19, 2019) ![CMS only](https://img.shields.io/badge/restricted-CMS-red.svg)
+- [3rd CMS Machine Learning Workshop (2019)](https://indico.cern.ch/event/798721/) (June 17-19, 2019) ![CMS only](https://img.shields.io/badge/restricted-CMS-red.svg)
 - [Theoretical Physics for Deep Learning at ICML 2019](https://sites.google.com/view/icml2019phys4dl) (June 14, 2019)
 - [3rd IML Machine Learning Workshop (2019)](https://indico.cern.ch/event/766872/) (April 15-18, 2019)
 - [Accelerating the Search for Dark Matter with Machine Learning (2019)](http://indico.ictp.it/event/8674/) (April 8-12, 2019)
