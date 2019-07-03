@@ -190,7 +190,7 @@ A listing of papers of applications of machine learning to high energy physics c
 
 ### Upcoming
 
-
+- [Fast Machine Learning IRIS-HEP Blueprint Workshop](https://indico.cern.ch/event/822126/) (September 10-13, 2019)
 
 ### Past
 
