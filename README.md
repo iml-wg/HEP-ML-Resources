@@ -75,10 +75,11 @@ Listing of useful (mostly) public learning resources for machine learning applic
 ##### Upcoming:
 
 - [Deep Learning for Science Summer School 2019, Berkeley, CA, USA](https://dl4sci-school.lbl.gov/home) (July 15-19, 2019)
-- [5th Machine Learning in High Energy Physics Summer School 2019](https://indico.cern.ch/event/768915/) (July 1-10, 2019)
 
 ##### Past:
 
+- [5th Machine Learning in High Energy Physics Summer School 2019](https://indico.cern.ch/event/768915/) (July 1-10, 2019)
+   - Associated [Yandex School of Data Analysis](https://github.com/yandexdataschool) repo: [mlhep2019](https://github.com/yandexdataschool/mlhep2019)
 - [4th Machine Learning in High Energy Physics Summer School 2018](https://indico.cern.ch/event/687473/) (August 6-12, 2018)
    - Associated [Yandex School of Data Analysis](https://github.com/yandexdataschool) repo: [mlhep2018](https://github.com/yandexdataschool/mlhep2018)
 - [2nd Computational and Data Science school for High Energy Physics (CoDaS-HEP 2018)](https://indico.cern.ch/event/707498/) (July 23-27, 2018)
