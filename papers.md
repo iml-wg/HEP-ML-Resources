@@ -4,6 +4,8 @@
 
 > A `.bib` file for all papers listed is [available in the `tex` directory](https://github.com/iml-wg/HEP-ML-Resources/blob/master/tex/HEPML.bib).
 
+- A. Andreassen, P. T. Komiske, E. M. Metodiev, B. Nachman, and J. Thaler, "[OmniFold: A Method to Simultaneously Unfold All Observables](https://inspirehep.net/record/1766424)," arXiv:1911.09107 [hep-ph]. (November 20, 2019)
+
 - B. Nachman and C. Shimmin, "[AI Safety for High Energy Physics](https://inspirehep.net/record/1759867)," arXiv:1910.08606 [hep-ph]. (October 18, 2019)
 
 - M. Borisyak, N. Kazeev, "[Machine Learning on data with sPlot background subtraction](https://inspirehep.net/record/1737258)," arXiv:1905.11719 [cs.LG]. (May 28, 2019)
