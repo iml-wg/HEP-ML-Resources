@@ -94,6 +94,8 @@ from mixed samples in high energy physics](https://inspirehep.net/record/1615464
 
 - A. Rogozhnikov, “[Reweighting with Boosted Decision Trees](https://inspirehep.net/record/1482753),” J. Phys. Conf. Ser. 762 (2016) no. 1, 012036, arXiv:1608.05806 [physics.data-an]. (August 20, 2016)
 
+- D. Guest, J. Collado, P. Baldi, S.-C. Hsu, G. Urban, and D. Whiteson, "[Jet Flavor Classification in High-Energy Physics with Deep Neural Networks](https://inspirehep.net/record/1478597)," Phys. Rev. D94 (2016) no. 11, 112002, arXiv:1607.08633 [hep-ex].  (July 28, 2016)
+
 - S. Caron, J.S. Kim, K. Rolbiecki, R. Ruiz de Austri, B. Stienen "[The BSM-AI project: SUSY-AI -- Generalizing LHC limits on supersymmetry with machine learning](https://inspirehep.net/record/1456927)", EPJ C (2017) 77:257, arXiv:1605.02797 [hep-ph]. (May 9, 2016)
 
 - A. Aurisano, A. Radovic, D. Rocco, A. Himmel, M. D. Messier, E. Niner, G. Pawloski, F. Psihas, A. Sousa, and P. Vahle, "[A Convolutional Neural Network Neutrino Event Classifier](https://inspirehep.net/record/1444342)," JINST 11 (2016) no. 09, P09001, arXiv:1604.01444 [hep-ex]. (April 5, 2016)
