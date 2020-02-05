@@ -4,6 +4,8 @@
 
 > A `.bib` file for all papers listed is [available in the `tex` directory](https://github.com/iml-wg/HEP-ML-Resources/blob/master/tex/HEPML.bib).
 
+- G. C. Strong, "[On the impact of modern deep-learning techniques to the performance and time-requirements of classification models in experimental high-energy physics](https://inspirehep.net/record/1778508)," arXiv:2002.01427 [physics.data-an]. (February 3, 2020)
+
 - A. Andreassen, P. T. Komiske, E. M. Metodiev, B. Nachman, and J. Thaler, "[OmniFold: A Method to Simultaneously Unfold All Observables](https://inspirehep.net/record/1766424)," arXiv:1911.09107 [hep-ph]. (November 20, 2019)
 
 - B. Nachman and C. Shimmin, "[AI Safety for High Energy Physics](https://inspirehep.net/record/1759867)," arXiv:1910.08606 [hep-ph]. (October 18, 2019)
