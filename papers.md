@@ -16,6 +16,8 @@
 
 - K. Datta, A. Larkoski, and B. Nachman, "[Automating the Construction of Jet Observables with Machine Learning](https://inspirehep.net/record/1720832)," arXiv:1902.07180 [hep-ph]. (February 19, 2019)
 
+- MicroBooNE Collaboration, "[Deep neural network for pixel-level electromagnetic particle identification in the MicroBooNE liquid argon time projection chamber](https://inspirehep.net/record/1689384)," Phys. Rev. D99 (2019) no. 9, 092001, arXiv:1808.07269 [hep-ex]. (August 22, 2018)
+
 - M. Stoye, J. Brehmer, L. Gilles, J. Paez, and K. Cranmer, "[Likelihood-free inference with an improved cross-entropy estimator](https://inspirehep.net/record/1684960)," arXiv:1808.00973 [stat.ML]. (August 2, 2018)
 
 - D. Bourgeois, C. Fitzpatrick, and S. Stahl, "[Using holistic event information in the Trigger](https://inspirehep.net/record/1684792)," arXiv:1808.00711 [physics.ins-det]. (August 2, 2018)
