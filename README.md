@@ -191,10 +191,12 @@ A listing of papers of applications of machine learning to high energy physics c
 
 ### Upcoming
 
-- [Fast Machine Learning IRIS-HEP Blueprint Workshop](https://indico.cern.ch/event/822126/) (September 10-13, 2019)
+- TBA
 
 ### Past
 
+- [Machine Learning for Jet Physics (2020)](https://indico.cern.ch/event/809820/) (January 15-17, 2020)
+- [Fast Machine Learning IRIS-HEP Blueprint Workshop](https://indico.cern.ch/event/822126/) (September 10-13, 2019)
 - [3rd CMS Machine Learning Workshop (2019)](https://indico.cern.ch/event/798721/) (June 17-19, 2019) ![CMS only](https://img.shields.io/badge/restricted-CMS-red.svg)
 - [Theoretical Physics for Deep Learning at ICML 2019](https://sites.google.com/view/icml2019phys4dl) (June 14, 2019)
 - [3rd IML Machine Learning Workshop (2019)](https://indico.cern.ch/event/766872/) (April 15-18, 2019)
