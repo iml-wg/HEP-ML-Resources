@@ -4,6 +4,10 @@
 
 > A `.bib` file for all papers listed is [available in the `tex` directory](https://github.com/iml-wg/HEP-ML-Resources/blob/master/tex/HEPML.bib).
 
+- G. Kanwar, M. S. Albergo, D. Boyda, K. Cranmer, D. C. Hackett, S. Racanière, D. J.
+Rezende, and P. E. Shanahan, "[Equivariant flow-based sampling for lattice gauge
+theory](https://inspirehep.net/record/1785309)," arXiv:2003.06413 [hep-lat]. (March 13, 2020)
+
 - J. Hollingsworth and D. Whiteson, "[Resonance Searches with Machine Learned Likelihood Ratios](https://inspirehep.net/record/1779859)," arXiv:2002.04699 [hep-ph]. (February 11, 2020)
 
 - G. C. Strong, "[On the impact of modern deep-learning techniques to the performance and time-requirements of classification models in experimental high-energy physics](https://inspirehep.net/record/1778508)," arXiv:2002.01427 [physics.data-an]. (February 3, 2020)
