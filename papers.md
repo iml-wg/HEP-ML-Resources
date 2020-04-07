@@ -20,6 +20,8 @@ theory](https://inspirehep.net/record/1785309)," arXiv:2003.06413 [hep-lat]. (Ma
 
 - M. Borisyak, N. Kazeev, "[Machine Learning on data with sPlot background subtraction](https://inspirehep.net/record/1737258)," arXiv:1905.11719 [cs.LG]. (May 28, 2019)
 
+- S. Caron, T. Heskes, S. Otten and B. Stienen, "[Constraining the Parameters of High-Dimensional Models with Active Learning](https://arxiv.org/abs/1905.08628)," Eur. Phys. J. C 79, 944 (2019), arXiv:1905.08628 [cs.LG]. (May 19, 2019)
+
 - R. Di Sipio, M. Faucci Giannelli, S. Ketabchi Haghighat, and S. Palazzo, "[DijetGAN: A Generative-Adversarial Network Approach for the Simulation of QCD Dijet Events at the LHC](https://inspirehep.net/record/1723861)," arXiv:1903.02433 [hep-ex]. (March 6, 2019)
 
 - K. Datta, A. Larkoski, and B. Nachman, "[Automating the Construction of Jet Observables with Machine Learning](https://inspirehep.net/record/1720832)," arXiv:1902.07180 [hep-ph]. (February 19, 2019)
