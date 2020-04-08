@@ -12,6 +12,8 @@ theory](https://inspirehep.net/record/1785309)," arXiv:2003.06413 [hep-lat]. (Ma
 
 - G. C. Strong, "[On the impact of modern deep-learning techniques to the performance and time-requirements of classification models in experimental high-energy physics](https://inspirehep.net/record/1778508)," arXiv:2002.01427 [physics.data-an]. (February 3, 2020)
 
+- M. Romão Crispim, N. Castro, R. Pedro, and T. Vale, "[Transferability of Deep Learning Models in Searches for New Physics at Colliders](https://inspirehep.net/literature/1769198)," Phys. Rev. D 101 (2020) no. 3, 035042, arXiv:1912.04220 [hep-ph]. (December 9, 2019)
+
 - A. Andreassen, P. T. Komiske, E. M. Metodiev, B. Nachman, and J. Thaler, "[OmniFold: A Method to Simultaneously Unfold All Observables](https://inspirehep.net/record/1766424)," arXiv:1911.09107 [hep-ph]. (November 20, 2019)
 
 - B. Nachman and C. Shimmin, "[AI Safety for High Energy Physics](https://inspirehep.net/record/1759867)," arXiv:1910.08606 [hep-ph]. (October 18, 2019)
