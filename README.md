@@ -196,6 +196,7 @@ A listing of papers of applications of machine learning to high energy physics c
 ### Past
 
 - [Machine Learning for Jet Physics (2020)](https://indico.cern.ch/event/809820/) (January 15-17, 2020)
+- [4th ATLAS Machine Learning Workshop (2019)](https://indico.cern.ch/event/844092/) (November 11-15, 2019)
 - [Fast Machine Learning IRIS-HEP Blueprint Workshop](https://indico.cern.ch/event/822126/) (September 10-13, 2019)
 - [3rd CMS Machine Learning Workshop (2019)](https://indico.cern.ch/event/798721/) (June 17-19, 2019) ![CMS only](https://img.shields.io/badge/restricted-CMS-red.svg)
 - [Theoretical Physics for Deep Learning at ICML 2019](https://sites.google.com/view/icml2019phys4dl) (June 14, 2019)
@@ -204,7 +205,8 @@ A listing of papers of applications of machine learning to high energy physics c
 - [5th Connecting The Dots / Intelligent Trackers (2019)](https://indico.cern.ch/event/742793/) (April 2-5, 2019)
 - [19th International Workshop on Advanced Computing and Analysis Techniques in Physics Research (ACAT 2019)](https://indico.cern.ch/event/708041/) (March 11-15, 2019)
 - [Machine Learning for Jet Physics (2018)](https://indico.cern.ch/event/745718/) (November 14-16, 2018)
-- [CMS Machine Learning Workshop (2018)](https://indico.cern.ch/event/730677/) (July 2-4, 2018) ![CMS only](https://img.shields.io/badge/restricted-CMS-red.svg)
+- [3rd ATLAS Machine Learning Workshop (2018)](https://indico.cern.ch/event/735932/) (October 15-17, 2018)
+- [2nd CMS Machine Learning Workshop (2018)](https://indico.cern.ch/event/730677/) (July 2-4, 2018) ![CMS only](https://img.shields.io/badge/restricted-CMS-red.svg)
 - [2nd IML Machine Learning Workshop (2018)](https://indico.cern.ch/event/668017/) (April 9-12, 2018)
 - [Machine Learning for Phenomenology (2018)](https://conference.ippp.dur.ac.uk/event/660/) (April 3-6, 2018)
 - [4th International Connecting The Dots Workshop (2018)](https://indico.cern.ch/event/658267/) (March 20-22, 2018)
@@ -214,7 +216,7 @@ A listing of papers of applications of machine learning to high energy physics c
 - [18th International Workshop on Advanced Computing and Analysis Techniques in Physics Research (ACAT 2017)](https://indico.cern.ch/event/567550/) (August 21-25, 2017)
 - [Hammers & Nails - Machine Learning & HEP](https://www.weizmann.ac.il/conferences/SRitp/Summer2017/) (July 19-28, 2017)
 - [CMS Machine Learning Workshop (2017)](https://indico.cern.ch/event/646801) (July 5-6, 2017) ![CMS only](https://img.shields.io/badge/restricted-CMS-red.svg)
-- [ATLAS Machine Learning Workshop (2017)](https://indico.cern.ch/event/630665/overview) (June 6-9, 2017) ![ATLAS only](https://img.shields.io/badge/restricted-ATLAS-red.svg)
+- [2nd ATLAS Machine Learning Workshop (2017)](https://indico.cern.ch/event/630665/overview) (June 6-9, 2017) ![ATLAS only](https://img.shields.io/badge/restricted-ATLAS-red.svg)
 - [Workshop on Machine Learning and b-tagging](https://indico.cern.ch/event/615994/overview) (May 23-26, 2017) ![ATLAS only](https://img.shields.io/badge/restricted-ATLAS-red.svg)
 - [DS@HEP 2017](https://indico.fnal.gov/conferenceDisplay.py?confId=13497) (May 8-12, 2017)
 - [2nd S2I2 HEP/CS Workshop (Parallel Session)](https://indico.cern.ch/event/622920/timetable/#5-parallel-session-machine-lea) (May 1-3, 2017)
