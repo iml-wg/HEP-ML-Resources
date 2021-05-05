@@ -74,9 +74,11 @@ Listing of useful (mostly) public learning resources for machine learning applic
 
 ##### Upcoming:
 
-- [Deep Learning for Science Summer School 2019, Berkeley, CA, USA](https://dl4sci-school.lbl.gov/home) (July 15-19, 2019)
+- TBA
 
 ##### Past:
+
+- [Deep Learning for Science Summer School 2019, Berkeley, CA, USA](https://dl4sci-school.lbl.gov/home) (July 15-19, 2019)
 
 - [5th Machine Learning in High Energy Physics Summer School 2019](https://indico.cern.ch/event/768915/) (July 1-10, 2019)
    - Associated [Yandex School of Data Analysis](https://github.com/yandexdataschool) repo: [mlhep2019](https://github.com/yandexdataschool/mlhep2019)
@@ -95,10 +97,12 @@ Listing of useful (mostly) public learning resources for machine learning applic
 
 ##### Upcoming:
 
-- [Machine Learning Summer School 2019, London, UK](https://sites.google.com/view/mlss-2019/home?authuser=0) (July 15–26, 2019)
-- [Machine Learning Summer School 2019, Stellenbosch, South Africa](http://mlssafrica.com/) (January 7-18, 2019)
+- TBA
 
 ##### Past:
+
+- [Machine Learning Summer School 2019, London, UK](https://sites.google.com/view/mlss-2019/home?authuser=0) (July 15–26, 2019)
+- [Machine Learning Summer School 2019, Stellenbosch, South Africa](http://mlssafrica.com/) (January 7-18, 2019)
 
 - [Machine Learning Summer School 2018, Madrid, Spain](http://mlss.ii.uam.es/mlss2018/index.html) (August 27 - September 7, 2018)
 - [Machine Learning Summer School 2018, Buenos Aires, Argentina](http://mlss2018.net.ar/) (June 18-20, 2018)
@@ -134,6 +138,7 @@ Listing of useful (mostly) public learning resources for machine learning applic
       - [Using ROOT/PyROOT with Conda and NumPy](https://indico.cern.ch/event/619371/attachments/1450504/2236434/Kagan_Lecture2.pdf#page=99)
 
     - [scikit-learn](http://scikit-learn.org/stable/): General machine learning Python library
+    
 
 - [TMVA](https://root.cern.ch/tmva): ROOT's builtin machine learning package
 
@@ -150,11 +155,12 @@ Listing of useful (mostly) public learning resources for machine learning applic
 - [PyTorch](http://pytorch.org/)
 - [Caffe2](https://caffe2.ai/)
 - [List of Conversion Tools For Saved Networks](https://github.com/ysh329/deep-learning-model-convertor)
+- [LUMIN Unifies Many Improvements for Networks](https://pypi.org/project/lumin/):  A PyTorch wrapper to make deep learning more accessible to scientists
 
 ### HEP to ML bridge tools
 
 - [lwtnn](https://github.com/lwtnn/lwtnn): Tool to run Keras networks in C++ code
-
+åç	
 - [sklearn-porter](https://github.com/nok/sklearn-porter): Transpile trained scikit-learn estimators to C, Java, JavaScript and others
 
 - [ONNX](https://onnx.ai) open format to represent deep learning models
@@ -191,7 +197,7 @@ A listing of papers of applications of machine learning to high energy physics c
 
 ### Upcoming
 
-- TBA
+- [PyHEP 2021 "Python in HEP" (virtual) Workshop (2021)](https://indico.cern.ch/event/1019958/) (5-9 July 2021)
 
 ### Past
 
